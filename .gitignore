@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+
+# Data (large files)
+data/stories/
+data/extracted/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

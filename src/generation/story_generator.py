@@ -15,15 +15,17 @@ import yaml
 CONFIG_PATH = Path(__file__).parents[2] / "configs" / "config.yaml"
 
 SYSTEM_PROMPT = """\
-You are a children's story writer. Write a bedtime story in Hindi based on the user's prompt.
-The story should be:
-- Written entirely in Hindi (Devanagari script)
-- Simple, age-appropriate, and non-toxic
-- 300-500 words long
-- Can feature human children, animals with names, or fictional characters
-- Should have a moral or lesson
-- End with a goodnight message matching the parent role and child gender from the prompt
-Write only the story, no translations or explanations."""
+You are an assistant who writes bedtime stories for young children aged 4-8.
+Write the story entirely in Hindi using Devanagari script only.
+Do not use any English words, Hinglish, emojis, special symbols, or markdown formatting.
+Do not provide a title. Provide only the story itself.
+The language should be simple and easy for young children to understand.
+The story must have a clear beginning, middle, and end.
+The story should contain only one central event.
+The emotional connection within the story should feel natural.
+The story must not end abruptly.
+The story should have a gentle and satisfying conclusion.
+The story length should be between 220 and 320 words."""
 
 
 def load_config() -> dict:

@@ -7,7 +7,7 @@ import json
 import itertools
 from pathlib import Path
 
-OUTPUT = Path(__file__).parents[1] / "data" / "prompts" / "hindi" / "prompts_1000.jsonl"
+OUTPUT = Path(__file__).parents[1] / "data" / "prompts" / "hindi" / "prompts.jsonl"
 
 # Hindi grammar rules:
 # बेटी (daughter, fem) → मेरी बेटी
@@ -228,21 +228,9 @@ if __name__ == "__main__":
     for p in prompts[-3:]:
         print(f"  [{p['template_type']}] {p['prompt_hi']}")
 
-    # To reach ~1000, duplicate prompts with different IDs
-    # Each duplicate will generate different stories due to temperature sampling
-    extended = []
-    pid = 1
-    for repeat in range(2):
-        for p in prompts:
-            new_p = {**p, "id": pid, "repeat": repeat}
-            extended.append(new_p)
-            pid += 1
-
-    print(f"\nAfter 2x expansion: {len(extended)} prompts")
-
     # Save
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     with open(OUTPUT, "w", encoding="utf-8") as f:
-        for p in extended:
+        for p in prompts:
             f.write(json.dumps(p, ensure_ascii=False) + "\n")
-    print(f"Saved -> {OUTPUT}")
+    print(f"\nSaved {len(prompts)} prompts -> {OUTPUT}")

@@ -1,0 +1,74 @@
+Annotating language: english
+Total stories: 326, already annotated: 0
+  [0/326] Annotating id=1, story_index=0
+  [25/326] Annotating id=9, story_index=1
+  [50/326] Annotating id=17, story_index=2
+  [75/326] Annotating id=26, story_index=0
+  [100/326] Annotating id=34, story_index=1
+  [125/326] Annotating id=42, story_index=2
+  [150/326] Annotating id=51, story_index=0
+  [175/326] Annotating id=59, story_index=1
+  [200/326] Annotating id=67, story_index=2
+  [225/326] Annotating id=76, story_index=0
+  [250/326] Annotating id=84, story_index=1
+  [275/326] Annotating id=92, story_index=2
+  [300/326] Annotating id=101, story_index=0
+  [325/326] Annotating id=109, story_index=1
+Done! 326 annotations saved -> /Users/skipper/Desktop/machine_learning/NLP/NLP_Project/data/extracted/llm_annotations_english.jsonl
+Annotating language: english
+Total stories: 632, already annotated: 326
+  [350/632] Annotating id=117, story_index=2
+  [375/632] Annotating id=126, story_index=0
+  [400/632] Annotating id=134, story_index=1
+  [425/632] Annotating id=142, story_index=2
+  [450/632] Annotating id=151, story_index=0
+  [475/632] Annotating id=159, story_index=1
+  [500/632] Annotating id=167, story_index=2
+  [525/632] Annotating id=176, story_index=0
+  [550/632] Annotating id=184, story_index=1
+  [575/632] Annotating id=192, story_index=2
+  [600/632] Annotating id=201, story_index=0
+  [625/632] Annotating id=209, story_index=1
+Done! 632 annotations saved -> /Users/skipper/Desktop/machine_learning/NLP/NLP_Project/data/extracted/llm_annotations_english.jsonl
+Annotating language: english
+Total stories: 1063, already annotated: 632
+  [650/1063] Annotating id=217, story_index=2
+  [675/1063] Annotating id=226, story_index=0
+  [700/1063] Annotating id=234, story_index=1
+  [725/1063] Annotating id=242, story_index=2
+  [750/1063] Annotating id=251, story_index=0
+  [775/1063] Annotating id=259, story_index=1
+  [800/1063] Annotating id=267, story_index=2
+  [825/1063] Annotating id=276, story_index=0
+  [850/1063] Annotating id=284, story_index=1
+  [875/1063] Annotating id=292, story_index=2
+  [900/1063] Annotating id=301, story_index=0
+  [925/1063] Annotating id=309, story_index=1
+  [950/1063] Annotating id=317, story_index=2
+  [975/1063] Annotating id=326, story_index=0
+  [1000/1063] Annotating id=334, story_index=1
+  [1025/1063] Annotating id=342, story_index=2
+  [1050/1063] Annotating id=351, story_index=0
+Done! 1063 annotations saved -> /Users/skipper/Desktop/machine_learning/NLP/NLP_Project/data/extracted/llm_annotations_english.jsonl
+Annotating language: english
+Total stories: 1542, already annotated: 1063
+  [1075/1542] Annotating id=359, story_index=1
+  [1100/1542] Annotating id=367, story_index=2
+  [1125/1542] Annotating id=376, story_index=0
+  [1150/1542] Annotating id=384, story_index=1
+  [1175/1542] Annotating id=392, story_index=2
+  [1200/1542] Annotating id=401, story_index=0
+  [1225/1542] Annotating id=409, story_index=1
+  [1250/1542] Annotating id=417, story_index=2
+  [1275/1542] Annotating id=426, story_index=0
+  [1300/1542] Annotating id=434, story_index=1
+  [1325/1542] Annotating id=442, story_index=2
+  [1350/1542] Annotating id=451, story_index=0
+  [1375/1542] Annotating id=459, story_index=1
+  [1400/1542] Annotating id=467, story_index=2
+  [1425/1542] Annotating id=476, story_index=0
+  [1450/1542] Annotating id=484, story_index=1
+  [1475/1542] Annotating id=492, story_index=2
+  [1500/1542] Annotating id=501, story_index=0
+  [1525/1542] Annotating id=509, story_index=1
+Done! 1542 annotations saved -> /Users/skipper/Desktop/machine_learning/NLP/NLP_Project/data/extracted/llm_annotations_english.jsonl

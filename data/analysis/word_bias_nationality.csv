@@ -1,0 +1,721 @@
+factor,factor_value,rank,word,pearson_correlation,word_count
+nationality,Afghanistan,1,सुनने,0.1673320063823909,48
+nationality,Afghanistan,2,तरीके,0.1640216822477181,7
+nationality,Afghanistan,3,ढलता,0.1613249176757827,15
+nationality,Afghanistan,4,माननी,0.15118578974756328,8
+nationality,Afghanistan,5,पाता,0.14042191327843548,9
+nationality,Afghanistan,6,गोद,0.14042190433862434,9
+nationality,Afghanistan,7,कहाँ,0.13272533656149835,20
+nationality,Afghanistan,8,छूने,0.13272533656149832,20
+nationality,Afghanistan,9,छूना,0.13120408826538765,10
+nationality,Afghanistan,10,कहते,0.1312040803348583,10
+nationality,Afghanistan,11,आओ,0.12868710449948575,34
+nationality,Afghanistan,12,सपनों,0.12659882668390351,206
+nationality,Afghanistan,13,बारिश,0.12386994340730978,22
+nationality,Afghanistan,14,समाप्त,0.12317702136993698,11
+nationality,Afghanistan,15,सुनाएंगी,0.12317702136993698,11
+nationality,Afghanistan,16,शौक,0.10975332933940499,123
+nationality,Afghanistan,17,मीठे,0.10858968105933729,101
+nationality,Afghanistan,18,खेलेंगे,0.10263159521918576,28
+nationality,Afghanistan,19,नन्हे,0.09887656244644746,15
+nationality,Afghanistan,20,मेरे,0.09293295684052158,141
+nationality,America,1,ढूंढते,0.17974913972480927,6
+nationality,America,2,गहरा,0.17974912574218055,6
+nationality,America,3,गिनते,0.17974912574218052,6
+nationality,America,4,सफेद,0.17058758004114316,23
+nationality,America,5,मतलब,0.1568433342159955,26
+nationality,America,6,बीच,0.148535766935212,56
+nationality,America,7,छत,0.14285715451560596,18
+nationality,America,8,छोड़कर,0.14042191327843548,9
+nationality,America,9,उठी,0.14042191327843545,9
+nationality,America,10,रहे,0.1345194823820137,223
+nationality,America,11,बैग,0.13120408826538765,10
+nationality,America,12,जबकि,0.13120408826538765,10
+nationality,America,13,हंस,0.13120408033485834,10
+nationality,America,14,यादें,0.12317702136993698,11
+nationality,America,15,ठिकाना,0.12317702136993698,11
+nationality,America,16,खिलौने,0.12317702136993698,11
+nationality,America,17,टोटो,0.12317702136993697,11
+nationality,America,18,झूम,0.12317702136993693,11
+nationality,America,19,कौआ,0.10976389440887017,13
+nationality,America,20,पिकनिक,0.10976388274356517,13
+nationality,Australia,1,इंतज़ार,0.20469384295985854,26
+nationality,Australia,2,क्रिकेट,0.19973321454063234,5
+nationality,Australia,3,निकलेंगे,0.1997332145406323,5
+nationality,Australia,4,सुरक्षित,0.170802884153863,34
+nationality,Australia,5,बहादुरी,0.16864953971844932,14
+nationality,Australia,6,अनुभवों,0.1686495397184493,14
+nationality,Australia,7,हटाया,0.16402169406964678,7
+nationality,Australia,8,काश,0.16132491767578272,15
+nationality,Australia,9,फंस,0.15464480063532515,16
+nationality,Australia,10,चिड़ियाँ,0.15118578974756328,8
+nationality,Australia,11,आईं,0.14042191327843548,9
+nationality,Australia,12,ताजगी,0.14042191327843548,9
+nationality,Australia,13,रूप,0.14042191327843548,9
+nationality,Australia,14,खड़े,0.14042191327843545,9
+nationality,Australia,15,दिखा,0.14042190433862436,9
+nationality,Australia,16,शानदार,0.13120408033485834,10
+nationality,Australia,17,बाहर,0.12834672821012405,106
+nationality,Australia,18,बंटी,0.128156852449461,21
+nationality,Australia,19,वापस,0.12367972208551112,110
+nationality,Australia,20,आपको,0.12317702136993697,11
+nationality,Bangladesh,1,सूखे,0.1997332145406324,5
+nationality,Bangladesh,2,मछलियों,0.1997332145406324,5
+nationality,Bangladesh,3,पेड़ों,0.1783403540546569,44
+nationality,Bangladesh,4,वाली,0.1640216940696468,7
+nationality,Bangladesh,5,खुली,0.16402168224771815,7
+nationality,Bangladesh,6,पुराना,0.1611754525211467,25
+nationality,Bangladesh,7,फूलों,0.1542273185360997,126
+nationality,Bangladesh,8,मछलियाँ,0.1511857999485256,8
+nationality,Bangladesh,9,गा,0.1511857897475633,8
+nationality,Bangladesh,10,काम,0.15115673436990296,71
+nationality,Bangladesh,11,भरा,0.14893422602922918,41
+nationality,Bangladesh,12,ताजगी,0.1404219132784355,9
+nationality,Bangladesh,13,चढ़ना,0.13272533656149835,20
+nationality,Bangladesh,14,खुशियाँ,0.131114890307681,65
+nationality,Bangladesh,15,हरा,0.12815685244946104,21
+nationality,Bangladesh,16,पकड़ना,0.12317702136993701,11
+nationality,Bangladesh,17,बेहतर,0.12317702136993698,11
+nationality,Bangladesh,18,पानी,0.11957892380929017,92
+nationality,Bangladesh,19,बिरंगी,0.11768337798742963,38
+nationality,Bangladesh,20,किताबें,0.11609086170863064,12
+nationality,Bhutan,1,देगी,0.19973321454063236,5
+nationality,Bhutan,2,गाती,0.19973321454063236,5
+nationality,Bhutan,3,हंसमुख,0.17974912574218058,6
+nationality,Bhutan,4,सामना,0.17834033292804286,44
+nationality,Bhutan,5,डरो,0.16732843050768514,35
+nationality,Bhutan,6,साहस,0.1568433342159955,26
+nationality,Bhutan,7,बिलकुल,0.1568433342159955,26
+nationality,Bhutan,8,उड़ान,0.15464794607488722,39
+nationality,Bhutan,9,तोड़,0.15118578974756328,8
+nationality,Bhutan,10,सोच,0.1415194077547912,30
+nationality,Bhutan,11,करूँ,0.14042191327843548,9
+nationality,Bhutan,12,ढल,0.14042190433862434,9
+nationality,Bhutan,13,मत,0.13289637973463106,64
+nationality,Bhutan,14,रोमांचक,0.13120408826538763,10
+nationality,Bhutan,15,रोज,0.13120408033485834,10
+nationality,Bhutan,16,तोड़ने,0.12317702136993697,11
+nationality,Bhutan,17,सुनाना,0.12317702136993697,11
+nationality,Bhutan,18,इसी,0.12028965929238461,37
+nationality,Bhutan,19,नींद,0.12028965929238458,37
+nationality,Bhutan,20,उड़ना,0.1198342504421254,23
+nationality,Brazil,1,लाया,0.23323874904744882,14
+nationality,Brazil,2,स्वागत,0.17974912574218063,6
+nationality,Brazil,3,कौआ,0.17673847404818072,13
+nationality,Brazil,4,काला,0.17058758004114327,23
+nationality,Brazil,5,बिताते,0.1640216940696468,7
+nationality,Brazil,6,हारी,0.1640216940696468,7
+nationality,Brazil,7,झूलने,0.14042190433862436,9
+nationality,Brazil,8,पार्क,0.14042190433862436,9
+nationality,Brazil,9,झूला,0.14042190433862436,9
+nationality,Brazil,10,रोहन,0.13761122230075168,19
+nationality,Brazil,11,बनाई,0.1347129098162476,63
+nationality,Brazil,12,पत्तियाँ,0.1312040882653876,10
+nationality,Brazil,13,शायद,0.12868709589932673,34
+nationality,Brazil,14,सबका,0.12317702136993698,11
+nationality,Brazil,15,विशेष,0.1198342504421254,23
+nationality,Brazil,16,उनका,0.1160908617086306,12
+nationality,Brazil,17,अकेली,0.10976388274356515,13
+nationality,Brazil,18,अंत,0.10971543015038593,59
+nationality,Brazil,19,कुत्ता,0.10807002098905114,42
+nationality,Brazil,20,कदम,0.10406036495963099,14
+nationality,Britain,1,खेलो,0.1997332145406323,5
+nationality,Britain,2,झूम,0.1958716569325227,11
+nationality,Britain,3,चोट,0.17974912574218055,6
+nationality,Britain,4,खजाने,0.16864955700353987,14
+nationality,Britain,5,नन्ही,0.1568433342159955,26
+nationality,Britain,6,तोड़ना,0.15118579994852555,8
+nationality,Britain,7,लाखों,0.15118578974756328,8
+nationality,Britain,8,कुत्ते,0.14851428321790497,17
+nationality,Britain,9,खोला,0.14042190433862434,9
+nationality,Britain,10,घूमना,0.1327253365614983,20
+nationality,Britain,11,वाह,0.128156852449461,21
+nationality,Britain,12,नटखट,0.12386993321523647,22
+nationality,Britain,13,बनी,0.12317702136993698,11
+nationality,Britain,14,निकलता,0.12317702136993698,11
+nationality,Britain,15,डरावना,0.12317702136993697,11
+nationality,Britain,16,बाकी,0.11983425044212533,23
+nationality,Britain,17,रहो,0.11609086170863063,12
+nationality,Britain,18,इन,0.11609086170863063,12
+nationality,Britain,19,जवाब,0.11609086170863063,12
+nationality,Britain,20,सम्मान,0.1160908617086306,12
+nationality,Canada,1,मिट्टी,0.23622779648056766,8
+nationality,Canada,2,दौड़ना,0.23090006996240361,30
+nationality,Canada,3,मनाने,0.19973321454063234,5
+nationality,Canada,4,आमंत्रित,0.19973321454063234,5
+nationality,Canada,5,सफलता,0.19973321454063234,5
+nationality,Canada,6,गलती,0.1797491397248093,6
+nationality,Canada,7,नाश्ता,0.17974912574218055,6
+nationality,Canada,8,उसी,0.17974912574218052,6
+nationality,Canada,9,बीतते,0.17974912574218052,6
+nationality,Canada,10,मुस्कराया,0.16402168224771815,7
+nationality,Canada,11,आएगी,0.15118578974756328,8
+nationality,Canada,12,देना,0.14508399285021398,29
+nationality,Canada,13,छूना,0.13120408826538763,10
+nationality,Canada,14,गाया,0.13120408033485834,10
+nationality,Canada,15,देखोगे,0.1312040803348583,10
+nationality,Canada,16,नाचने,0.12317702136993697,11
+nationality,Canada,17,बिताई,0.12317702136993697,11
+nationality,Canada,18,जीत,0.11983425044212535,23
+nationality,Canada,19,चंचल,0.11956561726753324,311
+nationality,Canada,20,अलविदा,0.11602387046704526,24
+nationality,China,1,गाते,0.18574537873380897,12
+nationality,China,2,बनेगा,0.16402169406964678,7
+nationality,China,3,सोचने,0.16227010342256487,50
+nationality,China,4,लगेगा,0.15118578974756328,8
+nationality,China,5,गिर,0.14893422602922915,41
+nationality,China,6,साहसिक,0.14851428321790497,17
+nationality,China,7,परी,0.14851428321790494,17
+nationality,China,8,शुरुआत,0.14285715451560596,18
+nationality,China,9,बचाने,0.14042191327843548,9
+nationality,China,10,चलें,0.14042191327843548,9
+nationality,China,11,झूलने,0.14042190433862434,9
+nationality,China,12,पार्क,0.14042190433862434,9
+nationality,China,13,झूला,0.14042190433862434,9
+nationality,China,14,पकड़ा,0.13272533656149832,20
+nationality,China,15,मेरा,0.1327253365614983,20
+nationality,China,16,बुरा,0.13120408826538763,10
+nationality,China,17,जान,0.12386993321523644,22
+nationality,China,18,मान,0.12317702136993697,11
+nationality,China,19,करता,0.12139539904964618,135
+nationality,China,20,मांगी,0.11983426009312252,23
+nationality,Egypt,1,किस्से,0.17974912574218055,6
+nationality,Egypt,2,महान,0.17974912574218055,6
+nationality,Egypt,3,खोजी,0.16402169406964678,7
+nationality,Egypt,4,लगाकर,0.16402169406964676,7
+nationality,Egypt,5,बच्चों,0.1517442490749067,40
+nationality,Egypt,6,राधिका,0.1511857897475633,8
+nationality,Egypt,7,आदमी,0.14042191327843548,9
+nationality,Egypt,8,शक्ति,0.14042191327843548,9
+nationality,Egypt,9,खोला,0.14042190433862434,9
+nationality,Egypt,10,तुमसे,0.13483996590456104,32
+nationality,Egypt,11,एकता,0.1327253251260263,20
+nationality,Egypt,12,जबकि,0.13120408826538763,10
+nationality,Egypt,13,इसके,0.1312040803348583,10
+nationality,Egypt,14,आपको,0.12317702136993697,11
+nationality,Egypt,15,अस्त,0.11241649209458131,25
+nationality,Egypt,16,रह,0.10899282547213242,26
+nationality,Egypt,17,बिलकुल,0.10899282547213242,26
+nationality,Egypt,18,पूरा,0.10807001444812246,42
+nationality,Egypt,19,मुझसे,0.10573611160998639,27
+nationality,Egypt,20,किताब,0.10406036495963096,14
+nationality,Ethiopia,1,गति,0.17974912574218055,6
+nationality,Ethiopia,2,धूप,0.17974912574218055,6
+nationality,Ethiopia,3,जमीन,0.1511857897475633,8
+nationality,Ethiopia,4,सफल,0.1511857897475633,8
+nationality,Ethiopia,5,लाकर,0.1511857897475633,8
+nationality,Ethiopia,6,सुनता,0.14285715451560596,18
+nationality,Ethiopia,7,बांटने,0.12317702136993694,11
+nationality,Ethiopia,8,या,0.12317702136993694,11
+nationality,Ethiopia,9,आपको,0.12317702136993694,11
+nationality,Ethiopia,10,देखती,0.1229879974621855,36
+nationality,Ethiopia,11,उनकी,0.11891768172601577,54
+nationality,Ethiopia,12,गाते,0.11609086170863063,12
+nationality,Ethiopia,13,बादलों,0.1160908617086306,12
+nationality,Ethiopia,14,रहेगी,0.11609086170863059,12
+nationality,Ethiopia,15,लौटने,0.11602387046704526,24
+nationality,Ethiopia,16,खूब,0.11327653315769143,57
+nationality,Ethiopia,17,जादू,0.11036133295691081,41
+nationality,Ethiopia,18,बिताया,0.10629895008071708,61
+nationality,Ethiopia,19,कूदने,0.104060364959631,14
+nationality,Ethiopia,20,अर्जुन,0.10406035429436232,14
+nationality,France,1,रंगीन,0.17974912574218055,6
+nationality,France,2,बने,0.17974912574218055,6
+nationality,France,3,सुन्दर,0.1767384552650625,13
+nationality,France,4,इंतजार,0.16864955700353987,14
+nationality,France,5,मज़ाक,0.16402169406964678,7
+nationality,France,6,लेकर,0.15272993899220252,27
+nationality,France,7,मोहन,0.1328963930098561,64
+nationality,France,8,हंसी,0.1312040803348583,10
+nationality,France,9,चलना,0.128156852449461,21
+nationality,France,10,समाप्त,0.12317702136993697,11
+nationality,France,11,निकले,0.1160908617086306,12
+nationality,France,12,नदी,0.1160908617086306,12
+nationality,France,13,रुक,0.11609086170863059,12
+nationality,France,14,पीछा,0.11036133971191786,41
+nationality,France,15,चिड़ियों,0.11036133295691082,41
+nationality,France,16,खेला,0.10784145271935384,80
+nationality,France,17,खोजते,0.10406036495963097,14
+nationality,France,18,यहाँ,0.10381362683740541,83
+nationality,France,19,वो,0.10263159521918573,28
+nationality,France,20,हाथ,0.10158657220160643,45
+nationality,Germany,1,दाने,0.1997332145406323,5
+nationality,Germany,2,आपके,0.17974912574218052,6
+nationality,Germany,3,प्रकृति,0.1757224633983587,22
+nationality,Germany,4,होना,0.15464480063532515,16
+nationality,Germany,5,शामिल,0.15464480063532515,16
+nationality,Germany,6,सुरक्षा,0.15118578974756325,8
+nationality,Germany,7,बढ़ता,0.15118578974756325,8
+nationality,Germany,8,टूट,0.15118578974756325,8
+nationality,Germany,9,झूला,0.14042190433862436,9
+nationality,Germany,10,सहमत,0.1376112223007517,19
+nationality,Germany,11,जागा,0.13120408033485834,10
+nationality,Germany,12,लगाने,0.13120408033485834,10
+nationality,Germany,13,मिलना,0.1312040803348583,10
+nationality,Germany,14,राहत,0.13120408033485828,10
+nationality,Germany,15,बारिश,0.12386994340730975,22
+nationality,Germany,16,हंसने,0.12317702136993698,11
+nationality,Germany,17,छिपने,0.11241649209458132,25
+nationality,Germany,18,खूबसूरती,0.11241649209458128,25
+nationality,Germany,19,खुशबू,0.10807002098905111,42
+nationality,Germany,20,जा,0.10406117874898496,105
+nationality,India,1,चूहे,0.19587165693252268,11
+nationality,India,2,गलती,0.17974913972480927,6
+nationality,India,3,मानी,0.1673320063823909,48
+nationality,India,4,मत,0.16437183809283307,64
+nationality,India,5,सलाह,0.16402169406964676,7
+nationality,India,6,बाँटना,0.16402168224771813,7
+nationality,India,7,बूढ़े,0.1640216822477181,7
+nationality,India,8,पहुंचा,0.1613249176757827,15
+nationality,India,9,आए,0.15685499198331312,85
+nationality,India,10,बिल्ली,0.15684333421599544,26
+nationality,India,11,लें,0.15118578974756325,8
+nationality,India,12,भागा,0.15118578974756325,8
+nationality,India,13,नुकसान,0.14042191327843545,9
+nationality,India,14,दिखा,0.14042190433862434,9
+nationality,India,15,कैसे,0.13147514787187858,48
+nationality,India,16,देखेगा,0.13120408033485836,10
+nationality,India,17,पौधों,0.13120408033485834,10
+nationality,India,18,लेटकर,0.13120408033485834,10
+nationality,India,19,बांटने,0.12317702136993698,11
+nationality,India,20,टोटो,0.12317702136993697,11
+nationality,Indonesia,1,पुकारा,0.17974912574218058,6
+nationality,Indonesia,2,खोजेंगे,0.17974912574218058,6
+nationality,Indonesia,3,अकेले,0.14881581306781932,28
+nationality,Indonesia,4,परी,0.148514283217905,17
+nationality,Indonesia,5,आवाज,0.1410133032060077,44
+nationality,Indonesia,6,जाएंगे,0.13483997517816199,32
+nationality,Indonesia,7,जबकि,0.13120408826538763,10
+nationality,Indonesia,8,देखेगा,0.1312040803348583,10
+nationality,Indonesia,9,जागा,0.1312040803348583,10
+nationality,Indonesia,10,हाथों,0.12317702136993697,11
+nationality,Indonesia,11,टोकरी,0.1160908617086306,12
+nationality,Indonesia,12,पौधे,0.11609086170863059,12
+nationality,Indonesia,13,जोर,0.11609086170863059,12
+nationality,Indonesia,14,बनाते,0.11609086170863059,12
+nationality,Indonesia,15,करती,0.11496804705794189,75
+nationality,Indonesia,16,माया,0.11241649209458131,25
+nationality,Indonesia,17,पड़े,0.11093118103102896,99
+nationality,Indonesia,18,धैर्य,0.10899282547213246,26
+nationality,Indonesia,19,आखिरकार,0.1058462286158329,43
+nationality,Indonesia,20,निकाला,0.10406036495963102,14
+nationality,Iran,1,सोचकर,0.18574537873380903,12
+nationality,Iran,2,बता,0.18574537873380903,12
+nationality,Iran,3,बनना,0.18118727415268626,21
+nationality,Iran,4,उनसे,0.16132491767578278,15
+nationality,Iran,5,सबके,0.1613249016894429,15
+nationality,Iran,6,लोगों,0.14285715451560596,18
+nationality,Iran,7,अंदर,0.14285715451560596,18
+nationality,Iran,8,बताने,0.14042191327843545,9
+nationality,Iran,9,रहोगे,0.14042190433862434,9
+nationality,Iran,10,खिला,0.13120408826538763,10
+nationality,Iran,11,हमारी,0.12386993321523647,22
+nationality,Iran,12,वाला,0.12386993321523647,22
+nationality,Iran,13,सकूँ,0.12317702136993697,11
+nationality,Iran,14,आपको,0.12317702136993697,11
+nationality,Iran,15,हंसने,0.12317702136993693,11
+nationality,Iran,16,हाँ,0.12184537028795579,159
+nationality,Iran,17,हां,0.11983425044212537,23
+nationality,Iran,18,दूसरों,0.11797951972814334,73
+nationality,Iran,19,चहकते,0.1160908617086306,12
+nationality,Iran,20,झाड़ियों,0.11609086170863059,12
+nationality,Iraq,1,रखूँगा,0.2777941034197336,6
+nationality,Iraq,2,लगाने,0.20738709472284064,10
+nationality,Iraq,3,भारी,0.16402169406964678,7
+nationality,Iraq,4,लेते,0.15118578974756328,8
+nationality,Iraq,5,सुनता,0.14285715451560596,18
+nationality,Iraq,6,नुकसान,0.14042191327843548,9
+nationality,Iraq,7,चुपचाप,0.14042191327843545,9
+nationality,Iraq,8,साँस,0.1404219043386243,9
+nationality,Iraq,9,ऐसा,0.13761122230075165,19
+nationality,Iraq,10,कल्पना,0.13483997517816196,32
+nationality,Iraq,11,पकड़,0.13483996590456104,32
+nationality,Iraq,12,मिली,0.13170262371442526,33
+nationality,Iraq,13,कूदे,0.13120408033485834,10
+nationality,Iraq,14,अजय,0.1312040803348583,10
+nationality,Iraq,15,चिल्लाया,0.12386994340730978,22
+nationality,Iraq,16,देंगे,0.12317702136993697,11
+nationality,Iraq,17,पा,0.12028965929238461,37
+nationality,Iraq,18,सम्मान,0.1160908617086306,12
+nationality,Iraq,19,पकड़कर,0.11609086170863059,12
+nationality,Iraq,20,असली,0.11147714439646629,58
+nationality,Italy,1,सफाई,0.19973321454063236,5
+nationality,Italy,2,टिमटिमा,0.19973321454063236,5
+nationality,Italy,3,रहस्य,0.19973321454063234,5
+nationality,Italy,4,गुड़िया,0.1997332145406323,5
+nationality,Italy,5,गाए,0.17974912574218052,6
+nationality,Italy,6,रोमांच,0.1705875800411432,23
+nationality,Italy,7,वैसे,0.16402169406964678,7
+nationality,Italy,8,पालतू,0.15118578974756328,8
+nationality,Italy,9,पार्टी,0.15118578974756328,8
+nationality,Italy,10,सुनता,0.14285715451560593,18
+nationality,Italy,11,झील,0.14151939771889258,30
+nationality,Italy,12,कम,0.14042191327843548,9
+nationality,Italy,13,तैरने,0.14042191327843545,9
+nationality,Italy,14,देते,0.13761122230075168,19
+nationality,Italy,15,इतना,0.13170262371442523,33
+nationality,Italy,16,रखती,0.13120408033485836,10
+nationality,Italy,17,पहुँचे,0.12765175337627394,67
+nationality,Italy,18,यादें,0.12317702136993697,11
+nationality,Italy,19,समाप्त,0.12317702136993697,11
+nationality,Italy,20,तारों,0.11602387046704525,24
+nationality,Japan,1,बेहद,0.19973321454063236,5
+nationality,Japan,2,दाने,0.19973321454063236,5
+nationality,Japan,3,चित्र,0.19973321454063234,5
+nationality,Japan,4,खेलो,0.19973321454063234,5
+nationality,Japan,5,वहां,0.15068955229495684,55
+nationality,Japan,6,ठान,0.14285715451560593,18
+nationality,Japan,7,देखेगा,0.13120408033485834,10
+nationality,Japan,8,जरूर,0.1281568416651224,21
+nationality,Japan,9,बताना,0.12317702136993697,11
+nationality,Japan,10,बनी,0.12317702136993697,11
+nationality,Japan,11,जिसे,0.12317702136993694,11
+nationality,Japan,12,खेलोगे,0.12317702136993694,11
+nationality,Japan,13,चाँद,0.12109241151180068,71
+nationality,Japan,14,मिलती,0.1176833779874296,38
+nationality,Japan,15,लिए,0.11689646738704654,316
+nationality,Japan,16,रहेगी,0.11609086170863063,12
+nationality,Japan,17,सहारा,0.1160908617086306,12
+nationality,Japan,18,ढेर,0.11609086170863059,12
+nationality,Japan,19,जाऊं,0.11609086170863059,12
+nationality,Japan,20,सपने,0.11281521897874112,120
+nationality,Kenya,1,गिल्ली,0.2548644784774512,7
+nationality,Kenya,2,लूं,0.19973321454063234,5
+nationality,Kenya,3,बजाय,0.1686495570035399,14
+nationality,Kenya,4,वहीं,0.14042191327843548,9
+nationality,Kenya,5,मैदान,0.14042191327843548,9
+nationality,Kenya,6,निर्णय,0.1257848201747426,35
+nationality,Kenya,7,टोटो,0.12317702136993694,11
+nationality,Kenya,8,उड़ते,0.12028965929238461,37
+nationality,Kenya,9,सच्चे,0.1198342504421254,23
+nationality,Kenya,10,कूदना,0.11609086170863059,12
+nationality,Kenya,11,मिला,0.11147714439646629,58
+nationality,Kenya,12,सीखता,0.10976388274356512,13
+nationality,Kenya,13,पिकनिक,0.10976388274356512,13
+nationality,Kenya,14,पीले,0.1097638827435651,13
+nationality,Kenya,15,अकेली,0.1097638827435651,13
+nationality,Kenya,16,खूबसूरत,0.10674446556604554,151
+nationality,Kenya,17,मिलने,0.10406035429436236,14
+nationality,Kenya,18,पकड़ने,0.10263159521918576,28
+nationality,Kenya,19,दौड़ता,0.09966639508840791,29
+nationality,Kenya,20,देना,0.09966639508840791,29
+nationality,Mexico,1,चाहूंगा,0.1797491257421807,6
+nationality,Mexico,2,ईमानदारी,0.1640216940696468,7
+nationality,Mexico,3,भागने,0.16402169406964678,7
+nationality,Mexico,4,टूट,0.1511857897475633,8
+nationality,Mexico,5,दौड़ना,0.14151939771889263,30
+nationality,Mexico,6,सुनती,0.13120408033485836,10
+nationality,Mexico,7,ताकत,0.12578482017474263,35
+nationality,Mexico,8,ठिकाना,0.12317702136993698,11
+nationality,Mexico,9,बिरंगी,0.1176833779874296,38
+nationality,Mexico,10,कूदना,0.11609086170863066,12
+nationality,Mexico,11,धैर्य,0.10899282547213246,26
+nationality,Mexico,12,निकल,0.10899282547213242,26
+nationality,Mexico,13,इंतजार,0.10406036495963099,14
+nationality,Mexico,14,दौड़कर,0.10406036495963097,14
+nationality,Mexico,15,ही,0.10345641086463467,342
+nationality,Mexico,16,तुम्हारा,0.10158656029202524,45
+nationality,Mexico,17,मधुर,0.09887656244644748,15
+nationality,Mexico,18,रामू,0.09413161777802402,16
+nationality,Mexico,19,जगहों,0.09410944794804328,31
+nationality,Mexico,20,सराहा,0.09241387538447171,5
+nationality,Myanmar,1,सुनाओ,0.27755513676280574,38
+nationality,Myanmar,2,कहानियां,0.19973321454063234,5
+nationality,Myanmar,3,जिंदगी,0.19973321454063234,5
+nationality,Myanmar,4,प्रिय,0.16402169406964678,7
+nationality,Myanmar,5,रो,0.1511857897475633,8
+nationality,Myanmar,6,पैर,0.15118578974756328,8
+nationality,Myanmar,7,दीं,0.15118578974756328,8
+nationality,Myanmar,8,करेगी,0.14881581306781932,28
+nationality,Myanmar,9,समझदार,0.14042190433862434,9
+nationality,Myanmar,10,होने,0.13471290981624764,63
+nationality,Myanmar,11,बनकर,0.13120408826538765,10
+nationality,Myanmar,12,बन,0.1311148773004101,65
+nationality,Myanmar,13,सुनाती,0.12924858893951532,49
+nationality,Myanmar,14,बंद,0.11952285689817124,216
+nationality,Myanmar,15,सुनाया,0.11609086170863063,12
+nationality,Myanmar,16,खाने,0.11516337131385561,39
+nationality,Myanmar,17,कीं,0.11093118103102897,99
+nationality,Myanmar,18,लगते,0.10976388274356512,13
+nationality,Myanmar,19,जाते,0.10573611160998639,27
+nationality,Myanmar,20,आँखें,0.1049753414409788,238
+nationality,Nepal,1,भरने,0.19973321454063234,5
+nationality,Nepal,2,धीमा,0.19973321454063234,5
+nationality,Nepal,3,घबराया,0.19973321454063234,5
+nationality,Nepal,4,घने,0.17974912574218052,6
+nationality,Nepal,5,सुनो,0.13761122230075168,19
+nationality,Nepal,6,राहत,0.1312040803348583,10
+nationality,Nepal,7,लेटकर,0.1312040803348583,10
+nationality,Nepal,8,लगे,0.12659390334738857,179
+nationality,Nepal,9,देंगे,0.12317702136993698,11
+nationality,Nepal,10,हंसने,0.12317702136993697,11
+nationality,Nepal,11,सुनाओ,0.1176833779874296,38
+nationality,Nepal,12,खेतों,0.10976388274356512,13
+nationality,Nepal,13,खुशबू,0.10807002098905111,42
+nationality,Nepal,14,खूबसूरत,0.10674446556604554,151
+nationality,Nepal,15,डरने,0.09887656244644749,15
+nationality,Nepal,16,सांस,0.09413161777802402,16
+nationality,Nepal,17,दिनभर,0.09410946108924043,31
+nationality,Nepal,18,जहां,0.09241387538447168,5
+nationality,Nepal,19,खाता,0.09241387538447168,5
+nationality,Nepal,20,सराहा,0.09241387538447168,5
+nationality,Nigeria,1,खोली,0.30705255369679296,5
+nationality,Nigeria,2,पूछता,0.3009040807256236,9
+nationality,Nigeria,3,सवाल,0.20000001632184833,18
+nationality,Nigeria,4,टहनियाँ,0.1997332145406323,5
+nationality,Nigeria,5,चढ़ा,0.17974912574218052,6
+nationality,Nigeria,6,संदेश,0.17974912574218052,6
+nationality,Nigeria,7,वही,0.1686495397184493,14
+nationality,Nigeria,8,चुनौती,0.15118578974756325,8
+nationality,Nigeria,9,बैठे,0.14042190433862434,9
+nationality,Nigeria,10,सकते,0.14007389797402853,163
+nationality,Nigeria,11,कल्पना,0.13483997517816196,32
+nationality,Nigeria,12,चोटी,0.13120408826538763,10
+nationality,Nigeria,13,मिलेंगे,0.13120408033485834,10
+nationality,Nigeria,14,हों,0.1312040803348583,10
+nationality,Nigeria,15,जाऊँगा,0.12386993321523648,22
+nationality,Nigeria,16,अक्सर,0.12317702136993698,11
+nationality,Nigeria,17,दिलों,0.12317702136993698,11
+nationality,Nigeria,18,नाचने,0.12317702136993698,11
+nationality,Nigeria,19,फैलाए,0.12317702136993698,11
+nationality,Nigeria,20,घोंसले,0.11983425044212541,23
+nationality,Pakistan,1,खुशमिज़ाज,0.25486447847745114,7
+nationality,Pakistan,2,भैया,0.1997332145406323,5
+nationality,Pakistan,3,बुलाती,0.17974912574218052,6
+nationality,Pakistan,4,गोल,0.16402168224771813,7
+nationality,Pakistan,5,रोशन,0.15118578974756333,8
+nationality,Pakistan,6,आर्यन,0.1410719255970447,77
+nationality,Pakistan,7,सीखने,0.13471290981624762,63
+nationality,Pakistan,8,अजय,0.13120408033485834,10
+nationality,Pakistan,9,पहुँचने,0.13120408033485834,10
+nationality,Pakistan,10,रोज,0.13120408033485828,10
+nationality,Pakistan,11,इतनी,0.12386994340730975,22
+nationality,Pakistan,12,उत्साही,0.12386993321523648,22
+nationality,Pakistan,13,चाँद,0.1210924115118007,71
+nationality,Pakistan,14,ढेर,0.11609086170863063,12
+nationality,Pakistan,15,सोने,0.11434437968384244,254
+nationality,Pakistan,16,सुनना,0.11327653315769146,57
+nationality,Pakistan,17,सुनाने,0.11272429233318236,40
+nationality,Pakistan,18,पहुँचकर,0.11036133971191787,41
+nationality,Pakistan,19,नजर,0.10976388274356512,13
+nationality,Pakistan,20,नन्हे,0.09887656244644749,15
+nationality,Philippines,1,छिपाई,0.17974913972480927,6
+nationality,Philippines,2,बने,0.17974912574218052,6
+nationality,Philippines,3,तालियाँ,0.16402169406964676,7
+nationality,Philippines,4,खुली,0.16402168224771815,7
+nationality,Philippines,5,पहुँचे,0.15849378774906492,67
+nationality,Philippines,6,तीनों,0.14851428321790497,17
+nationality,Philippines,7,चुका,0.1404219043386243,9
+nationality,Philippines,8,दौड़े,0.13272533656149832,20
+nationality,Philippines,9,सफर,0.13120408826538765,10
+nationality,Philippines,10,अच्छा,0.12902127301781066,176
+nationality,Philippines,11,महत्वपूर्ण,0.1226890694489039,70
+nationality,Philippines,12,तेजी,0.12028965929238461,37
+nationality,Philippines,13,नदी,0.1160908617086306,12
+nationality,Philippines,14,रखते,0.10976388274356515,13
+nationality,Philippines,15,सबक,0.10976388274356512,13
+nationality,Philippines,16,बिताया,0.10629895008071708,61
+nationality,Philippines,17,टिंकू,0.10406036495963096,14
+nationality,Philippines,18,अकेला,0.10368625235735864,44
+nationality,Philippines,19,उन्होंने,0.1007692756883577,311
+nationality,Philippines,20,डरते,0.09887656244644749,15
+nationality,Russia,1,कौन,0.23622779648056755,8
+nationality,Russia,2,कार्य,0.17974912574218063,6
+nationality,Russia,3,यदि,0.17974912574218052,6
+nationality,Russia,4,हमारी,0.17572246339835876,22
+nationality,Russia,5,लाइन,0.16402169406964673,7
+nationality,Russia,6,यही,0.15464480063532512,16
+nationality,Russia,7,तैयारी,0.14151940775479116,30
+nationality,Russia,8,चमकता,0.14151939771889263,30
+nationality,Russia,9,कहता,0.14042191327843548,9
+nationality,Russia,10,तीन,0.14042191327843548,9
+nationality,Russia,11,आंखें,0.13761122230075165,19
+nationality,Russia,12,खेलती,0.13289637973463103,64
+nationality,Russia,13,मिल,0.1327253365614983,20
+nationality,Russia,14,सीखती,0.13120408826538768,10
+nationality,Russia,15,अपना,0.12815684166512242,21
+nationality,Russia,16,गहरे,0.12317702136993698,11
+nationality,Russia,17,हां,0.11983425044212535,23
+nationality,Russia,18,तय,0.11113675256033734,146
+nationality,Russia,19,यादगार,0.10976388274356516,13
+nationality,Russia,20,excited,0.10976388274356515,13
+nationality,Saudi Arabia,1,नींद,0.20123223376950325,37
+nationality,Saudi Arabia,2,देगा,0.1997332145406323,5
+nationality,Saudi Arabia,3,प्रेरित,0.17974912574218052,6
+nationality,Saudi Arabia,4,छोड़,0.17058758004114316,23
+nationality,Saudi Arabia,5,परेशानी,0.16402169406964678,7
+nationality,Saudi Arabia,6,भरोसा,0.16402168224771815,7
+nationality,Saudi Arabia,7,चाहोगे,0.1613249176757827,15
+nationality,Saudi Arabia,8,जी,0.1527299276030447,27
+nationality,Saudi Arabia,9,पहुंच,0.1511857897475633,8
+nationality,Saudi Arabia,10,इसमें,0.15118578974756328,8
+nationality,Saudi Arabia,11,सुननी,0.14042190433862434,9
+nationality,Saudi Arabia,12,रहेंगे,0.13810868965044376,31
+nationality,Saudi Arabia,13,तुम्हें,0.12840659259804474,232
+nationality,Saudi Arabia,14,खेलोगे,0.12317702136993697,11
+nationality,Saudi Arabia,15,खिलौने,0.12317702136993697,11
+nationality,Saudi Arabia,16,पुराना,0.11241649209458131,25
+nationality,Saudi Arabia,17,बुद्धिमान,0.10976388274356515,13
+nationality,Saudi Arabia,18,सबक,0.10976388274356512,13
+nationality,Saudi Arabia,19,बढ़ने,0.10976388274356512,13
+nationality,Saudi Arabia,20,पैरों,0.10976388274356512,13
+nationality,South Africa,1,बधाई,0.17974913972480927,6
+nationality,South Africa,2,मिलेगा,0.17974913972480927,6
+nationality,South Africa,3,सुमन,0.17974913972480924,6
+nationality,South Africa,4,बढ़ते,0.17974912574218052,6
+nationality,South Africa,5,इसलिए,0.16574838638149314,24
+nationality,South Africa,6,केवल,0.16493398651195296,80
+nationality,South Africa,7,भटक,0.16402168224771815,7
+nationality,South Africa,8,संकल्प,0.15118578974756328,8
+nationality,South Africa,9,घोंसला,0.15118578974756328,8
+nationality,South Africa,10,पल,0.14285715451560593,18
+nationality,South Africa,11,शक्ति,0.1404219132784355,9
+nationality,South Africa,12,जारी,0.14042191327843548,9
+nationality,South Africa,13,बल्कि,0.13833280480407803,98
+nationality,South Africa,14,तलाश,0.12578482017474263,35
+nationality,South Africa,15,दिखाया,0.1257848201747426,35
+nationality,South Africa,16,टोटो,0.12317702136993697,11
+nationality,South Africa,17,राहुल,0.12317702136993697,11
+nationality,South Africa,18,बिताई,0.12317702136993697,11
+nationality,South Africa,19,मिलती,0.11768337798742963,38
+nationality,South Africa,20,घबरा,0.11609086170863063,12
+nationality,South Korea,1,यहां,0.17974912574218055,6
+nationality,South Korea,2,हटाया,0.16402169406964678,7
+nationality,South Korea,3,दृश्य,0.15118578974756328,8
+nationality,South Korea,4,रमन,0.15118578974756328,8
+nationality,South Korea,5,रहकर,0.15118578974756328,8
+nationality,South Korea,6,दीं,0.15118578974756328,8
+nationality,South Korea,7,गहरी,0.14621237248863628,42
+nationality,South Korea,8,पेड़ों,0.14101330320600772,44
+nationality,South Korea,9,मिलीं,0.14042191327843548,9
+nationality,South Korea,10,सोचते,0.13483997517816199,32
+nationality,South Korea,11,आस,0.1327253365614983,20
+nationality,South Korea,12,पौधों,0.1312040803348583,10
+nationality,South Korea,13,बिताए,0.12815685244946098,21
+nationality,South Korea,14,देखकर,0.12367972208551112,110
+nationality,South Korea,15,गीत,0.12317702136993697,11
+nationality,South Korea,16,सकूँ,0.12317702136993693,11
+nationality,South Korea,17,टोकरी,0.1160908617086306,12
+nationality,South Korea,18,पाने,0.1160908617086306,12
+nationality,South Korea,19,जवाब,0.1160908617086306,12
+nationality,South Korea,20,झाड़ियों,0.1160908617086306,12
+nationality,Spain,1,नाश्ता,0.17974912574218052,6
+nationality,Spain,2,वैसे,0.16402169406964673,7
+nationality,Spain,3,दादी,0.16117545252114665,25
+nationality,Spain,4,बिरंगे,0.15447181786218211,171
+nationality,Spain,5,रंग,0.15153790449971472,256
+nationality,Spain,6,खिलने,0.15118578974756328,8
+nationality,Spain,7,मिट्टी,0.15118578974756328,8
+nationality,Spain,8,समझी,0.14042191327843548,9
+nationality,Spain,9,लगाए,0.14042191327843548,9
+nationality,Spain,10,मनाई,0.13761122230075168,19
+nationality,Spain,11,रोहन,0.13761122230075168,19
+nationality,Spain,12,महत्व,0.1327253365614982,20
+nationality,Spain,13,उत्साह,0.13120408033485834,10
+nationality,Spain,14,मन,0.11952285757261095,72
+nationality,Spain,15,कैसा,0.11609086170863064,12
+nationality,Spain,16,तैर,0.11609086170863064,12
+nationality,Spain,17,बादलों,0.11609086170863063,12
+nationality,Spain,18,नदी,0.11609086170863063,12
+nationality,Spain,19,बुला,0.11602387046704525,24
+nationality,Spain,20,बच्चों,0.11272429931278782,40
+nationality,Sri Lanka,1,गहरा,0.17974912574218058,6
+nationality,Sri Lanka,2,पालतू,0.15118578974756328,8
+nationality,Sri Lanka,3,चुनौती,0.15118578974756328,8
+nationality,Sri Lanka,4,कुत्ते,0.14851428321790497,17
+nationality,Sri Lanka,5,हिस्से,0.14851428321790497,17
+nationality,Sri Lanka,6,बचाने,0.14042191327843548,9
+nationality,Sri Lanka,7,सामान,0.14042190433862436,9
+nationality,Sri Lanka,8,साल,0.1404219043386243,9
+nationality,Sri Lanka,9,दौड़े,0.1327253365614983,20
+nationality,Sri Lanka,10,इशारा,0.13120408826538763,10
+nationality,Sri Lanka,11,पढ़ना,0.1312040803348583,10
+nationality,Sri Lanka,12,लौटे,0.12624346162296585,87
+nationality,Sri Lanka,13,जुटाई,0.12386993321523644,22
+nationality,Sri Lanka,14,नए,0.11653681407646822,192
+nationality,Sri Lanka,15,चहकते,0.1160908617086306,12
+nationality,Sri Lanka,16,पकड़कर,0.1160908617086306,12
+nationality,Sri Lanka,17,किताबें,0.1160908617086306,12
+nationality,Sri Lanka,18,जाएँगे,0.1160908617086306,12
+nationality,Sri Lanka,19,टोकरी,0.11609086170863059,12
+nationality,Sri Lanka,20,खाने,0.11516337131385561,39
+nationality,Thailand,1,दूंगा,0.22066299253212396,9
+nationality,Thailand,2,जिंदगी,0.1997332145406323,5
+nationality,Thailand,3,दिलाया,0.1797491257421805,6
+nationality,Thailand,4,फैली,0.16402168224771815,7
+nationality,Thailand,5,तरीका,0.16402168224771813,7
+nationality,Thailand,6,इंतज़ार,0.1568433342159955,26
+nationality,Thailand,7,रामू,0.15464480063532512,16
+nationality,Thailand,8,रखने,0.1511857795466023,8
+nationality,Thailand,9,उपहार,0.14042191327843548,9
+nationality,Thailand,10,रूप,0.14042191327843548,9
+nationality,Thailand,11,रहेगा,0.13761122230075168,19
+nationality,Thailand,12,करीब,0.13272533656149832,20
+nationality,Thailand,13,अजय,0.13120408033485828,10
+nationality,Thailand,14,विश्वास,0.12815684166512242,21
+nationality,Thailand,15,सोचने,0.12707899665622552,50
+nationality,Thailand,16,निकलता,0.12317702136993698,11
+nationality,Thailand,17,मिला,0.11147714439646632,58
+nationality,Thailand,18,देता,0.10899282547213243,26
+nationality,Thailand,19,चाहता,0.10743871615964218,102
+nationality,Thailand,20,देखना,0.1038136268374054,83
+nationality,Tibet,1,तिब्बत,0.5719290364523927,6
+nationality,Tibet,2,पहाड़ियों,0.1958716569325227,11
+nationality,Tibet,3,रखो,0.19327418862465123,19
+nationality,Tibet,4,बसा,0.17974912574218058,6
+nationality,Tibet,5,सच्चाई,0.17974912574218055,6
+nationality,Tibet,6,सुनाता,0.17572247785688125,22
+nationality,Tibet,7,जान,0.17572246339835873,22
+nationality,Tibet,8,उतरने,0.16402168224771815,7
+nationality,Tibet,9,पाई,0.1611754525211467,25
+nationality,Tibet,10,आकाश,0.1511857897475633,8
+nationality,Tibet,11,चली,0.15068955229495687,55
+nationality,Tibet,12,जाऊँगी,0.14042190433862434,9
+nationality,Tibet,13,रोहन,0.13761122230075168,19
+nationality,Tibet,14,इसके,0.13120408033485834,10
+nationality,Tibet,15,ज़रूरी,0.1312040803348583,10
+nationality,Tibet,16,सुनकर,0.1262434616229658,87
+nationality,Tibet,17,कहानी,0.12440507424359314,269
+nationality,Tibet,18,तुम्हारी,0.12352437079757504,89
+nationality,Tibet,19,सुनाएंगे,0.12317702136993697,11
+nationality,Tibet,20,गीत,0.12317702136993697,11
+nationality,Turkey,1,बिताना,0.20738710725819334,10
+nationality,Turkey,2,पकड़ा,0.18702206515483852,20
+nationality,Turkey,3,चंपू,0.17974912574218052,6
+nationality,Turkey,4,चढ़ते,0.16402169406964678,7
+nationality,Turkey,5,मुस्कुराता,0.1640216822477181,7
+nationality,Turkey,6,जाते,0.15272993899220258,27
+nationality,Turkey,7,मुझसे,0.15272993899220258,27
+nationality,Turkey,8,पहाड़,0.15118578974756325,8
+nationality,Turkey,9,सहयोग,0.14042191327843548,9
+nationality,Turkey,10,चलता,0.14042191327843548,9
+nationality,Turkey,11,डूबने,0.14042190433862434,9
+nationality,Turkey,12,ऐसा,0.13761122230075165,19
+nationality,Turkey,13,इच्छा,0.13611110414729197,46
+nationality,Turkey,14,लोग,0.13376161551376173,47
+nationality,Turkey,15,तेज,0.12028965929238461,37
+nationality,Turkey,16,रहो,0.11609086170863063,12
+nationality,Turkey,17,ढेर,0.11609086170863063,12
+nationality,Turkey,18,पहुँची,0.11609086170863063,12
+nationality,Turkey,19,रहेगी,0.11609086170863063,12
+nationality,Turkey,20,कूदना,0.11609086170863063,12
+nationality,Vietnam,1,हिलाई,0.2548644601079928,7
+nationality,Vietnam,2,पूंछ,0.17974913972480924,6
+nationality,Vietnam,3,किस,0.17974912574218052,6
+nationality,Vietnam,4,मछली,0.17974912574218052,6
+nationality,Vietnam,5,कोने,0.17673845526506254,13
+nationality,Vietnam,6,तितलियाँ,0.17441697634039108,33
+nationality,Vietnam,7,उदासी,0.15118578974756325,8
+nationality,Vietnam,8,उछल,0.14042191327843548,9
+nationality,Vietnam,9,पड़े,0.13703263539127103,99
+nationality,Vietnam,10,नीला,0.13170262371442526,33
+nationality,Vietnam,11,बैग,0.13120408826538765,10
+nationality,Vietnam,12,डरा,0.13120408826538765,10
+nationality,Vietnam,13,बाहर,0.12834672821012405,106
+nationality,Vietnam,14,चलते,0.12765175337627396,67
+nationality,Vietnam,15,देर,0.1271610178768535,107
+nationality,Vietnam,16,राजू,0.12317702136993698,11
+nationality,Vietnam,17,तैर,0.11609086170863064,12
+nationality,Vietnam,18,निकले,0.11609086170863063,12
+nationality,Vietnam,19,जाएँगे,0.11609086170863059,12
+nationality,Vietnam,20,जल्दी,0.11349826217031092,76

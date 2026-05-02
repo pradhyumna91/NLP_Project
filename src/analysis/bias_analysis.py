@@ -7,23 +7,26 @@ Three analyses following Biased Tales (Rooein et al., EMNLP 2025):
 """
 
 import json
+import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
 import numpy as np
 
+LANGUAGE = sys.argv[1] if len(sys.argv) > 1 and sys.argv[1] in ("hindi", "english") else "hindi"
 
 DATA_DIR = Path(__file__).parents[2] / "data"
 
 
 def load_annotations() -> list[dict]:
-    filepath = DATA_DIR / "extracted" / "llm_annotations.jsonl"
+    fname = "llm_annotations.jsonl" if LANGUAGE == "hindi" else f"llm_annotations_{LANGUAGE}.jsonl"
+    filepath = DATA_DIR / "extracted" / fname
     with open(filepath, encoding="utf-8") as f:
         return [json.loads(l) for l in f if l.strip()]
 
 
 def load_stories() -> list[dict]:
-    filepath = DATA_DIR / "stories" / "hindi" / "stories.jsonl"
+    filepath = DATA_DIR / "stories" / LANGUAGE / "stories.jsonl"
     with open(filepath, encoding="utf-8") as f:
         return [json.loads(l) for l in f if l.strip()]
 

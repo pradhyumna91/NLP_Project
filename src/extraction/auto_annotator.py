@@ -5,6 +5,7 @@ Then computes cosine similarity between manual and LLM annotations.
 """
 
 import json
+import os
 import time
 from pathlib import Path
 
@@ -12,8 +13,19 @@ import yaml
 
 
 CONFIG_PATH = Path(__file__).parents[2] / "configs" / "config.yaml"
+ROOT = Path(__file__).parents[2]
 
-ANNOTATION_PROMPT = """\
+# Load .env if present so OPENAI_API_KEY is available
+_ENV_PATH = ROOT / ".env"
+if _ENV_PATH.exists():
+    for _line in _ENV_PATH.read_text().splitlines():
+        _line = _line.strip()
+        if _line and not _line.startswith("#") and "=" in _line:
+            k, v = _line.split("=", 1)
+            os.environ.setdefault(k.strip(), v.strip())
+
+ANNOTATION_PROMPTS = {
+    "hindi": """\
 You are annotating a Hindi children's bedtime story for bias analysis research.
 Given the story below, extract the following fields in JSON format:
 
@@ -36,7 +48,32 @@ Rules:
 Story:
 {story}
 
-JSON output:"""
+JSON output:""",
+    "english": """\
+You are annotating an English children's bedtime story for bias analysis research.
+Given the story below, extract the following fields in JSON format:
+
+{{
+  "protagonist": "<name of the main character>",
+  "type": "<human or animal>",
+  "traits": "<comma-separated list of protagonist traits/attributes found in the story, in English>",
+  "setting": "<story setting in English, e.g., forest, village, city, magical, mountain, river>",
+  "theme": "<main theme in English, e.g., friendship, courage, help, perseverance, honesty>",
+  "tone": "<one of: emotional, moral, friendship, adventure, spiritual>",
+  "notes": "<brief observation about any cultural/gender patterns, in English>"
+}}
+
+Rules:
+- Extract traits ONLY from the text, do not invent new ones
+- Traits should be in English (lowercase single adjectives where possible, e.g., kind, brave, curious)
+- Keep traits as adjectives or short descriptors
+- For "notes", mention any bias patterns you observe (e.g., gendered traits, cultural stereotypes)
+
+Story:
+{story}
+
+JSON output:""",
+}
 
 
 def load_config():
@@ -44,9 +81,9 @@ def load_config():
         return yaml.safe_load(f)
 
 
-def annotate_story(story_text: str, client, model: str) -> dict:
+def annotate_story(story_text: str, client, model: str, language: str) -> dict:
     """Annotate a single story using LLM."""
-    prompt = ANNOTATION_PROMPT.format(story=story_text)
+    prompt = ANNOTATION_PROMPTS[language].format(story=story_text)
 
     for attempt in range(5):
         try:
@@ -67,16 +104,23 @@ def annotate_story(story_text: str, client, model: str) -> dict:
     raise RuntimeError("Failed after 5 retries")
 
 
-def run_annotation():
+def run_annotation(language: str = None):
     """Annotate all stories and save results."""
     import openai
 
     config = load_config()
+    language = language or config.get("language", "hindi")
+    if language not in ANNOTATION_PROMPTS:
+        raise ValueError(f"Unsupported language: {language}")
+
     client = openai.OpenAI()
     model = config["model"]["name"]
+    print(f"Annotating language: {language}")
 
-    stories_file = Path(config["paths"]["stories"]) / "hindi" / "stories.jsonl"
-    out_file = Path(config["paths"]["extracted"]) / "llm_annotations.jsonl"
+    stories_file = ROOT / config["paths"]["stories"] / language / "stories.jsonl"
+    # English annotations go to a separate file to avoid clobbering Hindi
+    ann_filename = "llm_annotations.jsonl" if language == "hindi" else f"llm_annotations_{language}.jsonl"
+    out_file = ROOT / config["paths"]["extracted"] / ann_filename
     out_file.parent.mkdir(parents=True, exist_ok=True)
 
     # Load stories
@@ -102,8 +146,9 @@ def run_annotation():
             if (sid, sidx) in done:
                 continue
 
-            print(f"  [{len(done)}/{len(stories)}] Annotating id={sid}, story_index={sidx}")
-            annotation = annotate_story(story_rec["story"], client, model)
+            if len(done) % 25 == 0:
+                print(f"  [{len(done)}/{len(stories)}] Annotating id={sid}, story_index={sidx}", flush=True)
+            annotation = annotate_story(story_rec["story"], client, model, language)
 
             result = {
                 "id": sid,
@@ -121,4 +166,6 @@ def run_annotation():
 
 
 if __name__ == "__main__":
-    run_annotation()
+    import sys
+    lang = sys.argv[1] if len(sys.argv) > 1 else None
+    run_annotation(language=lang)

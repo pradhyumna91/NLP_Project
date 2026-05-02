@@ -1,0 +1,721 @@
+factor,factor_value,rank,word,pearson_correlation,word_count
+nationality,Afghanistan,1,afghanistan,0.6182355715490914,7
+nationality,Afghanistan,2,mountains,0.28101047095183185,92
+nationality,Afghanistan,3,amir,0.24879740961648017,56
+nationality,Afghanistan,4,lift,0.2362277964805676,8
+nationality,Afghanistan,5,sadness,0.22066299253212396,9
+nationality,Afghanistan,6,forget,0.19973323154752484,5
+nationality,Afghanistan,7,ended,0.19973321454063228,5
+nationality,Afghanistan,8,swirling,0.19973321454063228,5
+nationality,Afghanistan,9,nestled,0.1843547305291501,42
+nationality,Afghanistan,10,breeze,0.14981567491187425,130
+nationality,Afghanistan,11,pang,0.1404219132784355,9
+nationality,Afghanistan,12,though,0.14042190433862434,9
+nationality,Afghanistan,13,evening,0.13079917843407357,149
+nationality,Afghanistan,14,stronger,0.12815684166512242,21
+nationality,Afghanistan,15,between,0.12707899665622552,50
+nationality,Afghanistan,16,colors,0.12487470000785857,88
+nationality,Afghanistan,17,front,0.12317702136993698,11
+nationality,Afghanistan,18,carried,0.12317702136993698,11
+nationality,Afghanistan,19,amina,0.1229879974621855,36
+nationality,Afghanistan,20,branch,0.12109241151180068,71
+nationality,America,1,benny,0.31479233718071564,47
+nationality,America,2,lily,0.312586273981155,39
+nationality,America,3,bluebird,0.2548644784774512,7
+nationality,America,4,soar,0.25486446010799285,7
+nationality,America,5,hop,0.22368529214215951,53
+nationality,America,6,twigs,0.22066300658039856,9
+nationality,America,7,burrow,0.2072671864689443,17
+nationality,America,8,cozy,0.20398595058309718,164
+nationality,America,9,“now,0.19973321454063225,5
+nationality,America,10,gather,0.19327418862465123,19
+nationality,America,11,strong,0.19076417521374697,40
+nationality,America,12,squirrels,0.18574537873380897,12
+nationality,America,13,meadow,0.16996774755124905,47
+nationality,America,14,rabbit,0.16834511342235983,78
+nationality,America,15,yummy,0.16402169406964676,7
+nationality,America,16,sammy,0.16402168224771815,7
+nationality,America,17,town,0.1568433342159955,26
+nationality,America,18,carrots,0.15464480063532515,16
+nationality,America,19,sighed,0.15272993899220258,27
+nationality,America,20,highest,0.15118578974756325,8
+nationality,Australia,1,australia,0.971054928732456,17
+nationality,Australia,2,kangaroo,0.9413160873919626,16
+nationality,Australia,3,kiki,0.6853630231111452,14
+nationality,Australia,4,town,0.6353484216546259,26
+nationality,Australia,5,koala,0.6182355715490915,7
+nationality,Australia,6,hop,0.4292853904515487,53
+nationality,Australia,7,bounce,0.40631180994657623,8
+nationality,Australia,8,bounced,0.3811451931843248,9
+nationality,Australia,9,hopped,0.33942210159340686,90
+nationality,Australia,10,m,0.324772992971023,17
+nationality,Australia,11,looks,0.307052553696793,5
+nationality,Australia,12,munching,0.3009040807256236,9
+nationality,Australia,13,leaf,0.28357012625099903,10
+nationality,Australia,14,hopping,0.22610713098634624,31
+nationality,Australia,15,legs,0.22066299253212396,9
+nationality,Australia,16,going,0.2180786688492233,55
+nationality,Australia,17,rested,0.1997332145406323,5
+nationality,Australia,18,jump,0.1997332145406323,5
+nationality,Australia,19,head,0.19761925737511765,38
+nationality,Australia,20,timmy,0.17974912574218055,6
+nationality,Bangladesh,1,bangladesh,1.000000081609242,18
+nationality,Bangladesh,2,banyan,0.37142860174057557,18
+nationality,Bangladesh,3,amina’s,0.2548644784774512,7
+nationality,Bangladesh,4,chirp,0.2548644784774512,7
+nationality,Bangladesh,5,amina,0.2049799957703092,36
+nationality,Bangladesh,6,released,0.1997332145406324,5
+nationality,Bangladesh,7,ripe,0.19973321454063236,5
+nationality,Bangladesh,8,trembling,0.1958716569325228,11
+nationality,Bangladesh,9,raju,0.17974913972480933,6
+nationality,Bangladesh,10,spots,0.17974912574218058,6
+nationality,Bangladesh,11,rivers,0.17673845526506257,13
+nationality,Bangladesh,12,wished,0.16732843050768517,35
+nationality,Bangladesh,13,granted,0.16574838638149325,24
+nationality,Bangladesh,14,belongs,0.16402169406964678,7
+nationality,Bangladesh,15,homework,0.16402168224771815,7
+nationality,Bangladesh,16,mango,0.15464478578582244,16
+nationality,Bangladesh,17,note,0.15118578974756328,8
+nationality,Bangladesh,18,compassion,0.142857154515606,18
+nationality,Bangladesh,19,man,0.14042191327843548,9
+nationality,Bangladesh,20,rush,0.1403868022226052,60
+nationality,Bhutan,1,bhutan,1.0000000816092418,18
+nationality,Bhutan,2,tashi,0.6584610140725254,21
+nationality,Bhutan,3,valleys,0.3835258962220623,17
+nationality,Bhutan,4,foot,0.307052553696793,5
+nationality,Bhutan,5,valley,0.2073870947228405,10
+nationality,Bhutan,6,talking,0.2072671864689443,17
+nationality,Bhutan,7,rocky,0.19973321454063236,5
+nationality,Bhutan,8,skipped,0.18118727415268623,21
+nationality,Bhutan,9,humming,0.17974912574218055,6
+nationality,Bhutan,10,mountains,0.1733894395234707,92
+nationality,Bhutan,11,lhamo,0.1640216940696468,7
+nationality,Bhutan,12,bleated,0.16402169406964678,7
+nationality,Bhutan,13,cakes,0.16402169406964678,7
+nationality,Bhutan,14,noise,0.16402168224771815,7
+nationality,Bhutan,15,view,0.1611754525211467,25
+nationality,Bhutan,16,hills,0.15900929991627044,102
+nationality,Bhutan,17,nervous,0.15464480063532515,16
+nationality,Bhutan,18,highest,0.15118578974756328,8
+nationality,Bhutan,19,tune,0.15118578974756328,8
+nationality,Bhutan,20,live,0.15118578974756328,8
+nationality,Brazil,1,brazil,1.000000081609242,18
+nationality,Brazil,2,bananas,0.30705255369679313,5
+nationality,Brazil,3,monkey,0.29561549687160404,20
+nationality,Brazil,4,parrot,0.28357010911082287,10
+nationality,Brazil,5,flapped,0.21566740490330594,44
+nationality,Brazil,6,jungle,0.20738709472284064,10
+nationality,Brazil,7,i’m,0.2073870947228406,10
+nationality,Brazil,8,nowhere,0.19973321454063242,5
+nationality,Brazil,9,blankets,0.1997332145406324,5
+nationality,Brazil,10,beak,0.1997332145406324,5
+nationality,Brazil,11,“why,0.19587167952691376,11
+nationality,Brazil,12,sofia,0.1958716569325227,11
+nationality,Brazil,13,sing,0.1843547416872049,42
+nationality,Brazil,14,swing,0.17974912574218063,6
+nationality,Brazil,15,leo,0.17974912574218063,6
+nationality,Brazil,16,clara,0.17974912574218063,6
+nationality,Brazil,17,music,0.1757224633983587,22
+nationality,Brazil,18,milo,0.1640216940696468,7
+nationality,Brazil,19,spun,0.1640216940696468,7
+nationality,Brazil,20,right,0.1517442396792839,40
+nationality,Britain,1,britain,0.5719290364523928,6
+nationality,Britain,2,oliver,0.4139555636202799,11
+nationality,Britain,3,learn,0.2548644784774512,7
+nationality,Britain,4,lily’s,0.23622779648056755,8
+nationality,Britain,5,lily,0.23361711002802107,39
+nationality,Britain,6,benny,0.2061738949586158,47
+nationality,Britain,7,return,0.18133151760389635,87
+nationality,Britain,8,timmy,0.17974912574218052,6
+nationality,Britain,9,pebbles,0.17974912574218052,6
+nationality,Britain,10,taking,0.16864953971844932,14
+nationality,Britain,11,rabbit,0.16834511342235983,78
+nationality,Britain,12,oak,0.16476728513663405,49
+nationality,Britain,13,thankful,0.16402169406964676,7
+nationality,Britain,14,cozy,0.16078892575373535,164
+nationality,Britain,15,pocket,0.15515192603902975,53
+nationality,Britain,16,fear,0.15118578974756325,8
+nationality,Britain,17,making,0.14940357196576368,72
+nationality,Britain,18,hopped,0.149345724701099,90
+nationality,Britain,19,vines,0.14893421691324987,41
+nationality,Britain,20,safely,0.14881581306781938,28
+nationality,Canada,1,canada,0.9107051804278059,15
+nationality,Canada,2,bear,0.41111837933251394,15
+nationality,Canada,3,benny,0.31479233718071575,47
+nationality,Canada,4,busy,0.31068760030805725,13
+nationality,Canada,5,berries,0.27567113987907477,16
+nationality,Canada,6,woods,0.2642637454050541,62
+nationality,Canada,7,berry,0.25486447847745114,7
+nationality,Canada,8,brown,0.22608001217386584,41
+nationality,Canada,9,apple,0.2206630065803986,9
+nationality,Canada,10,twitching,0.2206630065803986,9
+nationality,Canada,11,nose,0.20993441294771206,25
+nationality,Canada,12,tummy,0.20738709472284061,10
+nationality,Canada,13,town,0.20469384295985854,26
+nationality,Canada,14,cozy,0.20398595058309707,164
+nationality,Canada,15,peeking,0.1999999981868039,18
+nationality,Canada,16,acorns,0.19973321454063234,5
+nationality,Canada,17,oliver,0.19587165693252268,11
+nationality,Canada,18,lily,0.1941325280514541,39
+nationality,Canada,19,honey,0.18574537873380903,12
+nationality,Canada,20,doing,0.18574537873380897,12
+nationality,China,1,china,0.6182356161086686,7
+nationality,China,2,li,0.5216912320091143,5
+nationality,China,3,mei,0.4270062814147973,14
+nationality,China,4,clean,0.19973321454063234,5
+nationality,China,5,lady,0.19973321454063234,5
+nationality,China,6,nestled,0.1843547305291501,42
+nationality,China,7,guide,0.1686495570035399,14
+nationality,China,8,picture,0.16402168224771815,7
+nationality,China,9,between,0.16227010342256487,50
+nationality,China,10,carrots,0.15464480063532515,16
+nationality,China,11,splashing,0.15464478578582241,16
+nationality,China,12,shone,0.14881581306781932,28
+nationality,China,13,create,0.148514283217905,17
+nationality,China,14,mountains,0.1464841816663804,92
+nationality,China,15,brought,0.14437203946427601,58
+nationality,China,16,party,0.14042191327843548,9
+nationality,China,17,weeds,0.14042190433862434,9
+nationality,China,18,eagerly,0.13810868965044376,31
+nationality,China,19,tortoise,0.13272533656149832,20
+nationality,China,20,energy,0.13120408826538763,10
+nationality,Egypt,1,egypt,0.7406681954387161,10
+nationality,Egypt,2,nile,0.7021095216931217,9
+nationality,Egypt,3,sand,0.3482453956337085,26
+nationality,Egypt,4,layla,0.3106876003080572,13
+nationality,Egypt,5,samir,0.3009040998823617,9
+nationality,Egypt,6,amir,0.28221795717690273,56
+nationality,Egypt,7,palm,0.20726718646894432,17
+nationality,Egypt,8,amir’s,0.19973323154752487,5
+nationality,Egypt,9,golden,0.18600257475987952,183
+nationality,Egypt,10,explained,0.18210791821164704,31
+nationality,Egypt,11,sands,0.1797491397248093,6
+nationality,Egypt,12,warmly,0.17974912574218052,6
+nationality,Egypt,13,belongs,0.16402169406964678,7
+nationality,Egypt,14,river,0.15714286245033485,168
+nationality,Egypt,15,riverbank,0.15174423028366238,40
+nationality,Egypt,16,hollow,0.15118578974756328,8
+nationality,Egypt,17,own,0.14508399285021403,29
+nationality,Egypt,18,bravery,0.14042191327843548,9
+nationality,Egypt,19,market,0.14042191327843545,9
+nationality,Egypt,20,watch,0.13792482151720825,79
+nationality,Ethiopia,1,ethiopia,0.9999999909340196,18
+nationality,Ethiopia,2,kofi,0.3714285680612073,18
+nationality,Ethiopia,3,houses,0.19973321454063236,5
+nationality,Ethiopia,4,further,0.16132491767578272,15
+nationality,Ethiopia,5,table,0.14851428321790494,17
+nationality,Ethiopia,6,touch,0.1428571415620028,18
+nationality,Ethiopia,7,lead,0.14151940775479116,30
+nationality,Ethiopia,8,wherever,0.1312040803348583,10
+nationality,Ethiopia,9,“yes,0.12815684166512242,21
+nationality,Ethiopia,10,carried,0.12317702136993694,11
+nationality,Ethiopia,11,what’s,0.12317702136993694,11
+nationality,Ethiopia,12,bird’s,0.11609086170863063,12
+nationality,Ethiopia,13,bedside,0.1160908617086306,12
+nationality,Ethiopia,14,large,0.11609086170863059,12
+nationality,Ethiopia,15,hero,0.11609086170863059,12
+nationality,Ethiopia,16,act,0.11609086170863059,12
+nationality,Ethiopia,17,people,0.11602387046704525,24
+nationality,Ethiopia,18,good,0.11036133971191787,41
+nationality,Ethiopia,19,pink,0.10975372903265598,100
+nationality,Ethiopia,20,“look,0.10899282547213242,26
+nationality,France,1,france,1.0000000816092418,18
+nationality,France,2,pierre,0.5719290364523928,6
+nationality,France,3,patch,0.2332387490474488,14
+nationality,France,4,cozy,0.20398595058309718,164
+nationality,France,5,paw,0.17673845526506246,13
+nationality,France,6,taking,0.16864953971844932,14
+nationality,France,7,paws,0.16864953971844932,14
+nationality,France,8,oak,0.16476728513663405,49
+nationality,France,9,spun,0.16402169406964678,7
+nationality,France,10,fading,0.16402169406964676,7
+nationality,France,11,eat,0.1611754525211467,25
+nationality,France,12,spend,0.1511857897475633,8
+nationality,France,13,narrow,0.15118578974756328,8
+nationality,France,14,grass,0.14843652896609216,178
+nationality,France,15,slowly,0.14643064042335724,57
+nationality,France,16,pillow,0.13120408826538763,10
+nationality,France,17,fields,0.12945383933937368,293
+nationality,France,18,forests,0.1257848201747426,35
+nationality,France,19,pond,0.12496357193645653,51
+nationality,France,20,different,0.12386994340730974,22
+nationality,Germany,1,germany,0.879130579383406,14
+nationality,Germany,2,max,0.39470892980934397,12
+nationality,Germany,3,felix,0.3758390810972867,6
+nationality,Germany,4,moved,0.307052553696793,5
+nationality,Germany,5,frog,0.23421767614660302,21
+nationality,Germany,6,lila,0.20764325210279647,59
+nationality,Germany,7,funny,0.19973321454063234,5
+nationality,Germany,8,freeing,0.17974912574218052,6
+nationality,Germany,9,pad,0.1686495570035399,14
+nationality,Germany,10,lit,0.164767285136634,49
+nationality,Germany,11,starting,0.16402169406964678,7
+nationality,Germany,12,wore,0.16402169406964676,7
+nationality,Germany,13,unusual,0.15464480063532515,16
+nationality,Germany,14,waved,0.15447181786218211,171
+nationality,Germany,15,goodbye,0.15271998341521942,173
+nationality,Germany,16,trapped,0.15118578974756325,8
+nationality,Germany,17,handed,0.15118578974756325,8
+nationality,Germany,18,surely,0.14042191327843548,9
+nationality,Germany,19,lined,0.14042191327843548,9
+nationality,Germany,20,aside,0.14042190433862434,9
+nationality,India,1,india,1.0000000816092418,18
+nationality,India,2,arjun,0.2548644784774512,7
+nationality,India,3,ravi,0.25486447847745114,7
+nationality,India,4,anaya,0.25486447847745114,7
+nationality,India,5,banyan,0.20000001632184827,18
+nationality,India,6,grandmother’s,0.17974912574218052,6
+nationality,India,7,homework,0.16402168224771813,7
+nationality,India,8,anya,0.15118579994852557,8
+nationality,India,9,book,0.15118578974756328,8
+nationality,India,10,reading,0.15118578974756325,8
+nationality,India,11,secret,0.14768067148225533,73
+nationality,India,12,beauty,0.13611110414729205,46
+nationality,India,13,field,0.13272533656149832,20
+nationality,India,14,turn,0.13170262371442526,33
+nationality,India,15,wishing,0.13120408826538765,10
+nationality,India,16,scarf,0.13120408033485834,10
+nationality,India,17,books,0.128156852449461,21
+nationality,India,18,life,0.128156852449461,21
+nationality,India,19,amazement,0.12386994340730975,22
+nationality,India,20,forward,0.12317702136993698,11
+nationality,Indonesia,1,indonesia,1.0000000816092418,18
+nationality,Indonesia,2,sari,0.5719290364523927,6
+nationality,Indonesia,3,“that,0.2685662924951084,11
+nationality,Indonesia,4,collection,0.22066299253212396,9
+nationality,Indonesia,5,maya,0.1999999981868039,18
+nationality,Indonesia,6,offered,0.19973321454063234,5
+nationality,Indonesia,7,lush,0.18210791821164712,31
+nationality,Indonesia,8,rice,0.1821079182116471,31
+nationality,Indonesia,9,mud,0.17974912574218055,6
+nationality,Indonesia,10,admire,0.17974912574218055,6
+nationality,Indonesia,11,lots,0.16402169406964678,7
+nationality,Indonesia,12,click,0.1574653525329,52
+nationality,Indonesia,13,spark,0.15118578974756328,8
+nationality,Indonesia,14,rustling,0.14285715451560596,18
+nationality,Indonesia,15,grow,0.13761122230075168,19
+nationality,Indonesia,16,gold,0.13483997517816199,32
+nationality,Indonesia,17,thick,0.1327253365614983,20
+nationality,Indonesia,18,grab,0.13120408033485834,10
+nationality,Indonesia,19,beating,0.13120408033485834,10
+nationality,Indonesia,20,backyard,0.1312040803348583,10
+nationality,Iran,1,amir,0.28221795717690273,56
+nationality,Iran,2,leila,0.26856632347504666,11
+nationality,Iran,3,peeking,0.19999999818680392,18
+nationality,Iran,4,questions,0.19973321454063236,5
+nationality,Iran,5,shivering,0.16402169406964678,7
+nationality,Iran,6,rainbows,0.16402169406964676,7
+nationality,Iran,7,swimming,0.1622701034225649,50
+nationality,Iran,8,surface,0.15464480063532515,16
+nationality,Iran,9,barked,0.15118578974756328,8
+nationality,Iran,10,kitten,0.15118578974756328,8
+nationality,Iran,11,beneath,0.14881581306781932,28
+nationality,Iran,12,tallest,0.14151939771889258,30
+nationality,Iran,13,nature,0.13852712767094347,45
+nationality,Iran,14,scarf,0.1312040803348583,10
+nationality,Iran,15,rest,0.128156852449461,21
+nationality,Iran,16,leave,0.1281568416651224,21
+nationality,Iran,17,surrounded,0.12482781399581451,109
+nationality,Iran,18,snacks,0.12088524298746492,53
+nationality,Iran,19,should,0.11983425044212535,23
+nationality,Iran,20,giant,0.10976388274356512,13
+nationality,Iraq,1,amir,0.24879740961648011,56
+nationality,Iraq,2,leila,0.19587167952691373,11
+nationality,Iraq,3,slept,0.17974912574218058,6
+nationality,Iraq,4,slipped,0.17974912574218052,6
+nationality,Iraq,5,cheese,0.17974912574218052,6
+nationality,Iraq,6,shouted,0.16398399661624735,36
+nationality,Iraq,7,hold,0.15684333421599547,26
+nationality,Iraq,8,dark,0.1546448006353252,16
+nationality,Iraq,9,surrounded,0.14993284921284983,109
+nationality,Iraq,10,samir,0.14042191327843548,9
+nationality,Iraq,11,flowed,0.13761122230075168,19
+nationality,Iraq,12,remembered,0.13262318878284987,124
+nationality,Iraq,13,giggling,0.13120408033485834,10
+nationality,Iraq,14,proudly,0.13120408033485834,10
+nationality,Iraq,15,towards,0.128156852449461,21
+nationality,Iraq,16,box,0.1281568416651224,21
+nationality,Iraq,17,trembling,0.12317702136993698,11
+nationality,Iraq,18,that’s,0.12317702136993698,11
+nationality,Iraq,19,floated,0.11983425044212537,23
+nationality,Iraq,20,hands,0.1195789238092901,92
+nationality,Italy,1,italy,1.0000000816092418,18
+nationality,Italy,2,luca,0.6614378301455892,8
+nationality,Italy,3,mia,0.4359361378867873,10
+nationality,Italy,4,bella,0.41395556362028,11
+nationality,Italy,5,countryside,0.32126980321357196,8
+nationality,Italy,6,castle,0.2548644784774512,7
+nationality,Italy,7,sofia,0.1958716569325227,11
+nationality,Italy,8,change,0.1686495570035399,14
+nationality,Italy,9,sprinkled,0.16402169406964678,7
+nationality,Italy,10,guardian,0.16402169406964678,7
+nationality,Italy,11,marco,0.1511857897475633,8
+nationality,Italy,12,asking,0.14151940775479116,30
+nationality,Italy,13,square,0.14042191327843545,9
+nationality,Italy,14,ancient,0.13761122230075168,19
+nationality,Italy,15,air,0.13369951028618426,123
+nationality,Italy,16,filling,0.1327253365614983,20
+nationality,Italy,17,bees,0.1312040803348583,10
+nationality,Italy,18,checked,0.1312040803348583,10
+nationality,Italy,19,stronger,0.12815684166512242,21
+nationality,Italy,20,heads,0.12317702136993697,11
+nationality,Japan,1,japan,0.9710549287324558,17
+nationality,Japan,2,kenji,0.5216912320091144,5
+nationality,Japan,3,cherry,0.4913538166795808,8
+nationality,Japan,4,blossom,0.3947089298093441,12
+nationality,Japan,5,blossoms,0.307052553696793,5
+nationality,Japan,6,hana,0.2978279105666232,14
+nationality,Japan,7,fox,0.26856632347504666,11
+nationality,Japan,8,bloom,0.1958716569325227,11
+nationality,Japan,9,pink,0.1877366417663852,100
+nationality,Japan,10,cranny,0.17974912574218055,6
+nationality,Japan,11,shook,0.1767384552650625,13
+nationality,Japan,12,petals,0.17441698816234702,33
+nationality,Japan,13,woods,0.16849030747302107,62
+nationality,Japan,14,nook,0.16402169406964678,7
+nationality,Japan,15,swaying,0.15118578974756328,8
+nationality,Japan,16,surprises,0.15118578974756328,8
+nationality,Japan,17,spend,0.15118578974756328,8
+nationality,Japan,18,standing,0.15118578974756328,8
+nationality,Japan,19,quiet,0.14881581306781932,28
+nationality,Japan,20,blew,0.14042190433862434,9
+nationality,Kenya,1,kenya,0.9999999909340196,18
+nationality,Kenya,2,amani,0.5216912320091144,5
+nationality,Kenya,3,baobab,0.35975312349880506,10
+nationality,Kenya,4,three,0.23622779648056766,8
+nationality,Kenya,5,kofi,0.1999999981868039,18
+nationality,Kenya,6,land,0.1811872589058627,21
+nationality,Kenya,7,possible,0.1797491257421806,6
+nationality,Kenya,8,places,0.1568433342159955,26
+nationality,Kenya,9,yet,0.1551519260390298,53
+nationality,Kenya,10,use,0.1511857897475633,8
+nationality,Kenya,11,guiding,0.1511857897475633,8
+nationality,Kenya,12,monkeys,0.1511857897475633,8
+nationality,Kenya,13,ask,0.14881581306781932,28
+nationality,Kenya,14,grasses,0.14042190433862434,9
+nationality,Kenya,15,arms,0.13761122230075168,19
+nationality,Kenya,16,thick,0.1327253365614983,20
+nationality,Kenya,17,shines,0.1312040803348583,10
+nationality,Kenya,18,box,0.1281568416651224,21
+nationality,Kenya,19,rustled,0.12317702136993694,11
+nationality,Kenya,20,amina,0.1229879974621855,36
+nationality,Mexico,1,mexico,0.9710550192639753,17
+nationality,Mexico,2,diego,0.41437189285295367,5
+nationality,Mexico,3,mateo,0.41395556362027996,11
+nationality,Mexico,4,sofia,0.2685662924951085,11
+nationality,Mexico,5,lucia,0.22066300658039864,9
+nationality,Mexico,6,marbles,0.19973321454063228,5
+nationality,Mexico,7,games,0.1821079182116471,31
+nationality,Mexico,8,dog,0.16402168224771813,7
+nationality,Mexico,9,bank,0.1640216822477181,7
+nationality,Mexico,10,especially,0.15174423967928394,40
+nationality,Mexico,11,flash,0.1404219132784355,9
+nationality,Mexico,12,lights,0.13810868000787638,31
+nationality,Mexico,13,energy,0.13120408826538765,10
+nationality,Mexico,14,wand,0.1312040803348584,10
+nationality,Mexico,15,brightest,0.1238699332152365,22
+nationality,Mexico,16,ahead,0.12317703557878082,11
+nationality,Mexico,17,racing,0.1198342504421254,23
+nationality,Mexico,18,welcomed,0.11983425044212535,23
+nationality,Mexico,19,colorful,0.11829783577833472,390
+nationality,Mexico,20,flowers,0.11338934401609649,360
+nationality,Myanmar,1,myanmar,0.9413160873919628,16
+nationality,Myanmar,2,nanda,0.5216912764301022,5
+nationality,Myanmar,3,mei,0.23323872514253627,14
+nationality,Myanmar,4,perfectly,0.22066299253212393,9
+nationality,Myanmar,5,ringing,0.19973321454063234,5
+nationality,Myanmar,6,struggling,0.19587165693252268,11
+nationality,Myanmar,7,swim,0.1862097470457778,30
+nationality,Myanmar,8,caring,0.16402169406964678,7
+nationality,Myanmar,9,makes,0.1546448006353252,16
+nationality,Myanmar,10,giggle,0.1511857897475633,8
+nationality,Myanmar,11,walking,0.1415194077547912,30
+nationality,Myanmar,12,rice,0.13810868965044376,31
+nationality,Myanmar,13,river,0.13571429029801646,168
+nationality,Myanmar,14,hardly,0.13120408033485834,10
+nationality,Myanmar,15,bag,0.12868710449948578,34
+nationality,Myanmar,16,scooped,0.12317702136993697,11
+nationality,Myanmar,17,moment,0.11811350335496938,115
+nationality,Myanmar,18,enchanted,0.11609086170863063,12
+nationality,Myanmar,19,bedside,0.11609086170863063,12
+nationality,Myanmar,20,jumping,0.11241649209458131,25
+nationality,Nepal,1,nepal,1.0000000816092418,18
+nationality,Nepal,2,maya,0.3714285680612073,18
+nationality,Nepal,3,raju,0.27779412502925066,6
+nationality,Nepal,4,ravi,0.2548644784774512,7
+nationality,Nepal,5,spoke,0.23591918837382628,29
+nationality,Nepal,6,hills,0.21057988367289873,102
+nationality,Nepal,7,lucky,0.17974912574218055,6
+nationality,Nepal,8,agreement,0.17974912574218055,6
+nationality,Nepal,9,because,0.16996774755124908,47
+nationality,Nepal,10,hurry,0.15118578974756328,8
+nationality,Nepal,11,valleys,0.14851428321790494,17
+nationality,Nepal,12,run,0.14660959429207784,133
+nationality,Nepal,13,mountains,0.14648418166638041,92
+nationality,Nepal,14,safe,0.14621238133812797,42
+nationality,Nepal,15,touch,0.1428571415620028,18
+nationality,Nepal,16,thanking,0.14042190433862434,9
+nationality,Nepal,17,smooth,0.13483996590456107,32
+nationality,Nepal,18,smiling,0.13376160014388241,47
+nationality,Nepal,19,us,0.13170261478764225,33
+nationality,Nepal,20,means,0.1312040803348583,10
+nationality,Nigeria,1,nigeria,1.0000000816092418,18
+nationality,Nigeria,2,kofi,0.3714285680612073,18
+nationality,Nigeria,3,amina,0.245975994924371,36
+nationality,Nigeria,4,vibrant,0.22066299253212393,9
+nationality,Nigeria,5,bedtime,0.17974913972480927,6
+nationality,Nigeria,6,left,0.17673845526506254,13
+nationality,Nigeria,7,amina’s,0.16402169406964678,7
+nationality,Nigeria,8,mango,0.15464478578582241,16
+nationality,Nigeria,9,luck,0.15118578974756325,8
+nationality,Nigeria,10,tale,0.15118578974756325,8
+nationality,Nigeria,11,faces,0.15118578974756325,8
+nationality,Nigeria,12,hurry,0.15118578974756325,8
+nationality,Nigeria,13,“would,0.15118578974756325,8
+nationality,Nigeria,14,only,0.14881581306781935,28
+nationality,Nigeria,15,market,0.14042191327843548,9
+nationality,Nigeria,16,wagging,0.14042190433862434,9
+nationality,Nigeria,17,settled,0.14042190433862434,9
+nationality,Nigeria,18,unexpected,0.14042190433862434,9
+nationality,Nigeria,19,though,0.1404219043386243,9
+nationality,Nigeria,20,lush,0.13810868965044373,31
+nationality,Pakistan,1,pakistan,0.6614377855163853,8
+nationality,Pakistan,2,aisha,0.3070525536967929,5
+nationality,Pakistan,3,amir,0.28221795717690284,56
+nationality,Pakistan,4,amina,0.20497999577030918,36
+nationality,Pakistan,5,stretching,0.17974912574218052,6
+nationality,Pakistan,6,bridge,0.16402168224771813,7
+nationality,Pakistan,7,hard,0.1568433342159955,26
+nationality,Pakistan,8,worked,0.15272993899220255,27
+nationality,Pakistan,9,owner,0.15118578974756325,8
+nationality,Pakistan,10,climb,0.14107191260426016,77
+nationality,Pakistan,11,build,0.14042191327843548,9
+nationality,Pakistan,12,sturdy,0.14042190433862434,9
+nationality,Pakistan,13,gift,0.13761122230075168,19
+nationality,Pakistan,14,saved,0.13272533656149832,20
+nationality,Pakistan,15,creak,0.13120408826538765,10
+nationality,Pakistan,16,great,0.12868710449948578,34
+nationality,Pakistan,17,others,0.12804619351933286,152
+nationality,Pakistan,18,calling,0.12386993321523648,22
+nationality,Pakistan,19,else,0.12317702136993698,11
+nationality,Pakistan,20,flick,0.12317702136993698,11
+nationality,Philippines,1,philippines,0.7774287414332086,11
+nationality,Philippines,2,marco,0.4913538166795806,8
+nationality,Philippines,3,beach,0.3412609280576943,11
+nationality,Philippines,4,sea,0.24893715494855082,19
+nationality,Philippines,5,gazed,0.2362277964805676,8
+nationality,Philippines,6,waves,0.23323874904744876,14
+nationality,Philippines,7,ocean,0.2206630065803986,9
+nationality,Philippines,8,balls,0.1997332145406323,5
+nationality,Philippines,9,mateo,0.1958716569325227,11
+nationality,Philippines,10,brightly,0.18520225139470994,69
+nationality,Philippines,11,team,0.17974913972480927,6
+nationality,Philippines,12,lila,0.17500064478532637,59
+nationality,Philippines,13,reach,0.1657483863814932,24
+nationality,Philippines,14,shells,0.16402168224771813,7
+nationality,Philippines,15,swirled,0.1613249176757827,15
+nationality,Philippines,16,hoping,0.15464480063532515,16
+nationality,Philippines,17,tale,0.15118578974756328,8
+nationality,Philippines,18,mangoes,0.15118578974756328,8
+nationality,Philippines,19,me,0.1497974730348362,202
+nationality,Philippines,20,floating,0.14285715451560596,18
+nationality,Russia,1,anya,0.3212698248906168,8
+nationality,Russia,2,bear,0.2862216564973198,15
+nationality,Russia,3,berry,0.25486447847745114,7
+nationality,Russia,4,juiciest,0.23323874904744873,14
+nationality,Russia,5,m,0.20726718646894424,17
+nationality,Russia,6,munched,0.19973321454063225,5
+nationality,Russia,7,owl,0.16227010342256487,50
+nationality,Russia,8,forest,0.15709839247199972,145
+nationality,Russia,9,berries,0.1546447857858224,16
+nationality,Russia,10,please,0.15272993899220258,27
+nationality,Russia,11,swaying,0.15118578974756325,8
+nationality,Russia,12,bush,0.148535766935212,56
+nationality,Russia,13,yes,0.14101330320600777,44
+nationality,Russia,14,floppy,0.14042190433862434,9
+nationality,Russia,15,cozy,0.13919041333905452,164
+nationality,Russia,16,alone,0.1385271276709435,45
+nationality,Russia,17,covered,0.13845661565135414,61
+nationality,Russia,18,better,0.13845661565135414,61
+nationality,Russia,19,woke,0.13376160014388241,47
+nationality,Russia,20,clapped,0.13272533656149835,20
+nationality,Saudi Arabia,1,desert,0.6320394703080372,11
+nationality,Saudi Arabia,2,dunes,0.5719290364523927,6
+nationality,Saudi Arabia,3,sands,0.3758391103336921,6
+nationality,Saudi Arabia,4,sand,0.3003948832565577,26
+nationality,Saudi Arabia,5,palm,0.26602008971998364,17
+nationality,Saudi Arabia,6,layla,0.2437130277865599,13
+nationality,Saudi Arabia,7,guided,0.19973321454063234,5
+nationality,Saudi Arabia,8,sprinkle,0.19973321454063234,5
+nationality,Saudi Arabia,9,dust,0.18574535820357546,12
+nationality,Saudi Arabia,10,fairy,0.170802884153863,34
+nationality,Saudi Arabia,11,endless,0.16402169406964678,7
+nationality,Saudi Arabia,12,faces,0.15118578974756328,8
+nationality,Saudi Arabia,13,samir,0.14042191327843548,9
+nationality,Saudi Arabia,14,above,0.13191355590617682,83
+nationality,Saudi Arabia,15,dreamt,0.13120408826538765,10
+nationality,Saudi Arabia,16,neighbors,0.13120408033485836,10
+nationality,Saudi Arabia,17,wand,0.13120408033485834,10
+nationality,Saudi Arabia,18,feet,0.13120408033485828,10
+nationality,Saudi Arabia,19,evening,0.13079917843407357,149
+nationality,Saudi Arabia,20,painting,0.1304656143014039,84
+nationality,South Africa,1,africa,0.9710550192639751,17
+nationality,South Africa,2,south,0.6982784428869102,32
+nationality,South Africa,3,thabo,0.5216912320091142,5
+nationality,South Africa,4,believing,0.22066300658039856,9
+nationality,South Africa,5,baobab,0.20738709472284056,10
+nationality,South Africa,6,added,0.17974913972480927,6
+nationality,South Africa,7,swing,0.17974912574218066,6
+nationality,South Africa,8,climbing,0.16398400728391857,36
+nationality,South Africa,9,onto,0.1613249176757827,15
+nationality,South Africa,10,view,0.16117545252114673,25
+nationality,South Africa,11,nuzzled,0.15118579994852557,8
+nationality,South Africa,12,deed,0.15118578974756336,8
+nationality,South Africa,13,almost,0.15118578974756328,8
+nationality,South Africa,14,fear,0.15118578974756328,8
+nationality,South Africa,15,side,0.14893422602922915,41
+nationality,South Africa,16,twice,0.14042191327843548,9
+nationality,South Africa,17,whimper,0.14042190433862434,9
+nationality,South Africa,18,discovering,0.13761122230075168,19
+nationality,South Africa,19,tortoise,0.13272533656149832,20
+nationality,South Africa,20,starry,0.13120408826538763,10
+nationality,South Korea,1,korea,0.9107051804278059,15
+nationality,South Korea,2,south,0.6115956017009491,32
+nationality,South Korea,3,hana,0.4270062814147972,14
+nationality,South Korea,4,“if,0.17974912574218055,6
+nationality,South Korea,5,cried,0.16402169406964678,7
+nationality,South Korea,6,“your,0.15118578974756328,8
+nationality,South Korea,7,cherry,0.15118578974756328,8
+nationality,South Korea,8,playful,0.14893423514520956,41
+nationality,South Korea,9,swam,0.148535766935212,56
+nationality,South Korea,10,ocean,0.14042191327843548,9
+nationality,South Korea,11,weeds,0.14042190433862434,9
+nationality,South Korea,12,stopped,0.1327253365614983,20
+nationality,South Korea,13,nothing,0.13272532512602633,20
+nationality,South Korea,14,truly,0.1312040803348583,10
+nationality,South Korea,15,hearted,0.1286871044994858,34
+nationality,South Korea,16,leaned,0.1257848201747426,35
+nationality,South Korea,17,carry,0.12317702136993697,11
+nationality,South Korea,18,mr,0.12317702136993697,11
+nationality,South Korea,19,freed,0.12317702136993697,11
+nationality,South Korea,20,listening,0.12088524298746492,53
+nationality,Spain,1,spain,0.9413161777802403,16
+nationality,Spain,2,lucia,0.3811451931843249,9
+nationality,Spain,3,miguel,0.2777941250292508,6
+nationality,Spain,4,oak,0.23580467753087145,49
+nationality,Spain,5,kindly,0.20738709472284064,10
+nationality,Spain,6,unlocks,0.1997332145406323,5
+nationality,Spain,7,beginning,0.17974913972480927,6
+nationality,Spain,8,spots,0.17974912574218055,6
+nationality,Spain,9,luna,0.17974912574218052,6
+nationality,Spain,10,chase,0.1757224778568813,22
+nationality,Spain,11,leading,0.17572246339835873,22
+nationality,Spain,12,wildflowers,0.17572246339835873,22
+nationality,Spain,13,curly,0.16402169406964676,7
+nationality,Spain,14,above,0.16001348497494824,83
+nationality,Spain,15,pick,0.15272993899220258,27
+nationality,Spain,16,cloud,0.15118578974756328,8
+nationality,Spain,17,gazed,0.15118578974756328,8
+nationality,Spain,18,believed,0.14285715451560596,18
+nationality,Spain,19,welcome,0.13761122230075165,19
+nationality,Spain,20,clouds,0.136111104147292,46
+nationality,Sri Lanka,1,sri,0.9710550192639755,17
+nationality,Sri Lanka,2,lanka,0.9710550192639755,17
+nationality,Sri Lanka,3,ella,0.6218684334996222,9
+nationality,Sri Lanka,4,elephant,0.6207738376870582,14
+nationality,Sri Lanka,5,elephants,0.4063118099465764,8
+nationality,Sri Lanka,6,milo,0.3457072628852555,7
+nationality,Sri Lanka,7,monkey,0.24131877295641146,20
+nationality,Sri Lanka,8,monkeys,0.2362277964805676,8
+nationality,Sri Lanka,9,quickly,0.2332387490474488,14
+nationality,Sri Lanka,10,lush,0.22610714677285043,31
+nationality,Sri Lanka,11,swinging,0.22066299253212396,9
+nationality,Sri Lanka,12,compassion,0.20000001632184833,18
+nationality,Sri Lanka,13,afraid,0.18574537873380895,12
+nationality,Sri Lanka,14,aloud,0.17974912574218058,6
+nationality,Sri Lanka,15,“what’s,0.17974912574218058,6
+nationality,Sri Lanka,16,hugging,0.17974912574218055,6
+nationality,Sri Lanka,17,smaller,0.17974912574218055,6
+nationality,Sri Lanka,18,helping,0.16887955099939525,95
+nationality,Sri Lanka,19,arjun,0.1640216940696468,7
+nationality,Sri Lanka,20,anaya,0.1640216940696468,7
+nationality,Thailand,1,thailand,0.9710549287324557,17
+nationality,Thailand,2,niran,0.5216912764301022,5
+nationality,Thailand,3,rice,0.2701063753340537,31
+nationality,Thailand,4,jungle,0.20738709472284061,10
+nationality,Thailand,5,elephant,0.1686495397184492,14
+nationality,Thailand,6,cakes,0.16402169406964678,7
+nationality,Thailand,7,monkeys,0.15118578974756328,8
+nationality,Thailand,8,elephants,0.15118578974756325,8
+nationality,Thailand,9,green,0.15056549586575263,201
+nationality,Thailand,10,joyfully,0.14151939771889263,30
+nationality,Thailand,11,fireflies,0.14042190433862434,9
+nationality,Thailand,12,aside,0.14042190433862434,9
+nationality,Thailand,13,swinging,0.1404219043386243,9
+nationality,Thailand,14,monkey,0.13272532512602633,20
+nationality,Thailand,15,push,0.12317702136993698,11
+nationality,Thailand,16,race,0.11602387046704525,24
+nationality,Thailand,17,trunk,0.11036133295691085,41
+nationality,Thailand,18,lonely,0.10899282547213246,26
+nationality,Thailand,19,careful,0.10899282547213242,26
+nationality,Thailand,20,dance,0.10784145271935384,80
+nationality,Tibet,1,tibet,0.9999999909340196,18
+nationality,Tibet,2,lhamo,0.4365500472930599,7
+nationality,Tibet,3,mountains,0.36172624452310265,92
+nationality,Tibet,4,tashi,0.3402785106280836,21
+nationality,Tibet,5,valley,0.2835701091108228,10
+nationality,Tibet,6,valleys,0.26602008971998364,17
+nationality,Tibet,7,mountain,0.23323872514253632,14
+nationality,Tibet,8,peaceful,0.21547290229594118,24
+nationality,Tibet,9,meadows,0.20000001632184833,18
+nationality,Tibet,10,rocky,0.19973321454063236,5
+nationality,Tibet,11,hills,0.18479459179458455,102
+nationality,Tibet,12,entire,0.17974912574218058,6
+nationality,Tibet,13,cheese,0.17974912574218058,6
+nationality,Tibet,14,yourself,0.17974912574218055,6
+nationality,Tibet,15,imagine,0.17974912574218055,6
+nationality,Tibet,16,tea,0.17974912574218055,6
+nationality,Tibet,17,already,0.17974912574218052,6
+nationality,Tibet,18,holds,0.17974912574218052,6
+nationality,Tibet,19,high,0.17440333143400671,150
+nationality,Tibet,20,clouds,0.17267826645551965,46
+nationality,Turkey,1,ali,0.5763958234125849,8
+nationality,Turkey,2,turkey,0.5719290364523927,6
+nationality,Turkey,3,elif,0.5216912764301022,5
+nationality,Turkey,4,beamed,0.2548644784774511,7
+nationality,Turkey,5,scent,0.20738709472284061,10
+nationality,Turkey,6,concern,0.19973321454063234,5
+nationality,Turkey,7,amazing,0.1958716569325227,11
+nationality,Turkey,8,hunt,0.17974912574218052,6
+nationality,Turkey,9,shore,0.1767384552650625,13
+nationality,Turkey,10,anyone,0.17058758004114316,23
+nationality,Turkey,11,searching,0.16476728513663405,49
+nationality,Turkey,12,fingers,0.1613249176757827,15
+nationality,Turkey,13,telling,0.15464478578582241,16
+nationality,Turkey,14,handed,0.15118578974756325,8
+nationality,Turkey,15,few,0.14508399285021403,29
+nationality,Turkey,16,rustling,0.14285715451560596,18
+nationality,Turkey,17,leaves,0.1409814818851913,96
+nationality,Turkey,18,vibrant,0.14042190433862434,9
+nationality,Turkey,19,peeked,0.13810868965044376,31
+nationality,Turkey,20,sea,0.13761122230075168,19
+nationality,Vietnam,1,vietnam,0.879130579383406,14
+nationality,Vietnam,2,minh,0.7021095216931217,9
+nationality,Vietnam,3,linh,0.6182355715490914,7
+nationality,Vietnam,4,healed,0.1997332145406323,5
+nationality,Vietnam,5,year,0.19973321454063228,5
+nationality,Vietnam,6,rice,0.18210791821164704,31
+nationality,Vietnam,7,taught,0.1640216822477181,7
+nationality,Vietnam,8,soared,0.15464795576432042,39
+nationality,Vietnam,9,sunset,0.15464480063532515,16
+nationality,Vietnam,10,bloomed,0.14621238133812803,42
+nationality,Vietnam,11,fresh,0.1428571415620028,18
+nationality,Vietnam,12,whispering,0.14042191327843548,9
+nationality,Vietnam,13,lush,0.13810868965044373,31
+nationality,Vietnam,14,grow,0.13761122230075165,19
+nationality,Vietnam,15,feathered,0.13120408826538763,10
+nationality,Vietnam,16,plant,0.1312040803348583,10
+nationality,Vietnam,17,awaited,0.12765176587099233,67
+nationality,Vietnam,18,twist,0.12317702136993698,11
+nationality,Vietnam,19,determined,0.12317702136993698,11
+nationality,Vietnam,20,cloth,0.11609086170863063,12
